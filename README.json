@@ -28,7 +28,7 @@
             "last_commit": "2024-08-14T10:01:34Z",
             "owner": "MystenLabs",
             "repo": "awesome-move",
-            "stars": 1498
+            "stars": 1497
           }
         }
       ],
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T01:41:04Z",
+            "last_commit": "2026-08-13T13:46:45Z",
             "owner": "MystenLabs",
             "repo": "sui",
-            "stars": 7735
+            "stars": 7733
           }
         },
         {
@@ -73,10 +73,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T04:06:21Z",
+            "last_commit": "2026-08-13T13:38:21Z",
             "owner": "aptos-labs",
             "repo": "aptos-core",
-            "stars": 6440
+            "stars": 6439
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-13T02:32:27Z",
             "owner": "starcoinorg",
             "repo": "starcoin",
-            "stars": 1155
+            "stars": 1154
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2025-12-18T08:43:19Z",
             "owner": "chainx-org",
             "repo": "ChainX",
-            "stars": 326
+            "stars": 325
           }
         },
         {
@@ -168,10 +168,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T01:41:04Z",
+            "last_commit": "2026-08-13T13:46:45Z",
             "owner": "MystenLabs",
             "repo": "sui",
-            "stars": 7735
+            "stars": 7733
           }
         },
         {
@@ -241,7 +241,7 @@
             "last_commit": "2025-12-27T12:33:03Z",
             "owner": "starcoinorg",
             "repo": "starcoin-framework",
-            "stars": 49
+            "stars": 48
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2025-12-27T12:33:03Z",
             "owner": "starcoinorg",
             "repo": "starcoin-framework",
-            "stars": 49
+            "stars": 48
           }
         },
         {
@@ -283,7 +283,7 @@
             "last_commit": "2022-10-31T08:50:04Z",
             "owner": "OmniBTC",
             "repo": "OmniBridge",
-            "stars": 35
+            "stars": 34
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2022-10-31T08:50:04Z",
             "owner": "OmniBTC",
             "repo": "OmniBridge",
-            "stars": 35
+            "stars": 34
           }
         },
         {
@@ -440,10 +440,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T01:41:04Z",
+            "last_commit": "2026-08-13T13:46:45Z",
             "owner": "MystenLabs",
             "repo": "sui",
-            "stars": 7735
+            "stars": 7733
           }
         },
         {
@@ -457,7 +457,7 @@
             "last_commit": "2024-04-19T10:03:34Z",
             "owner": "Origin-Byte",
             "repo": "nft-protocol",
-            "stars": 155
+            "stars": 154
           }
         },
         {
@@ -471,7 +471,7 @@
             "last_commit": "2025-12-27T12:33:03Z",
             "owner": "starcoinorg",
             "repo": "starcoin-framework",
-            "stars": 49
+            "stars": 48
           }
         },
         {
@@ -485,7 +485,7 @@
             "last_commit": "2025-12-27T12:33:03Z",
             "owner": "starcoinorg",
             "repo": "starcoin-framework",
-            "stars": 49
+            "stars": 48
           }
         },
         {
@@ -499,7 +499,7 @@
             "last_commit": "2023-04-19T09:22:25Z",
             "owner": "Suia2023",
             "repo": "suia",
-            "stars": 18
+            "stars": 17
           }
         }
       ],
@@ -519,7 +519,7 @@
             "last_commit": "2025-04-03T05:35:29Z",
             "owner": "NonceGeek",
             "repo": "MoveDID",
-            "stars": 35
+            "stars": 34
           }
         },
         {
@@ -533,7 +533,7 @@
             "last_commit": "2022-11-01T03:34:41Z",
             "owner": "coming-chat",
             "repo": "aptos-cid",
-            "stars": 7
+            "stars": 6
           }
         }
       ],
@@ -550,10 +550,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T01:41:04Z",
+            "last_commit": "2026-08-13T13:46:45Z",
             "owner": "MystenLabs",
             "repo": "sui",
-            "stars": 7735
+            "stars": 7733
           }
         },
         {
@@ -665,7 +665,7 @@
             "last_commit": "2022-11-02T09:32:05Z",
             "owner": "coming-chat",
             "repo": "aptos-red-packet",
-            "stars": 15
+            "stars": 14
           }
         },
         {
@@ -769,7 +769,7 @@
             "last_commit": "2025-12-27T12:33:03Z",
             "owner": "starcoinorg",
             "repo": "starcoin-framework",
-            "stars": 49
+            "stars": 48
           }
         }
       ],
@@ -789,7 +789,7 @@
             "last_commit": "2022-10-31T08:50:04Z",
             "owner": "OmniBTC",
             "repo": "OmniBridge",
-            "stars": 35
+            "stars": 34
           }
         },
         {
@@ -851,7 +851,7 @@
             "last_commit": "2025-12-27T12:33:03Z",
             "owner": "starcoinorg",
             "repo": "starcoin-framework",
-            "stars": 49
+            "stars": 48
           }
         }
       ],
@@ -882,10 +882,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T01:41:04Z",
+            "last_commit": "2026-08-13T13:46:45Z",
             "owner": "MystenLabs",
             "repo": "sui",
-            "stars": 7735
+            "stars": 7733
           }
         },
         {
@@ -896,10 +896,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T04:06:21Z",
+            "last_commit": "2026-08-13T13:38:21Z",
             "owner": "aptos-labs",
             "repo": "aptos-core",
-            "stars": 6440
+            "stars": 6439
           }
         },
         {
@@ -927,7 +927,7 @@
             "last_commit": "2025-12-27T12:33:03Z",
             "owner": "starcoinorg",
             "repo": "starcoin-framework",
-            "stars": 49
+            "stars": 48
           }
         }
       ],
@@ -1031,7 +1031,7 @@
             "last_commit": "2022-12-19T10:47:15Z",
             "owner": "pentagonxyz",
             "repo": "movemate",
-            "stars": 210
+            "stars": 209
           }
         },
         {
@@ -1045,7 +1045,7 @@
             "last_commit": "2022-12-12T08:30:23Z",
             "owner": "movefuns",
             "repo": "movefuns",
-            "stars": 61
+            "stars": 60
           }
         },
         {
@@ -1059,7 +1059,7 @@
             "last_commit": "2025-12-27T12:33:03Z",
             "owner": "starcoinorg",
             "repo": "starcoin-framework",
-            "stars": 49
+            "stars": 48
           }
         },
         {
@@ -1290,10 +1290,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T01:41:04Z",
+            "last_commit": "2026-08-13T13:46:45Z",
             "owner": "MystenLabs",
             "repo": "sui",
-            "stars": 7735
+            "stars": 7733
           }
         },
         {
@@ -1378,10 +1378,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T01:41:04Z",
+            "last_commit": "2026-08-13T13:46:45Z",
             "owner": "MystenLabs",
             "repo": "sui",
-            "stars": 7735
+            "stars": 7733
           }
         },
         {
@@ -1451,10 +1451,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T01:41:04Z",
+            "last_commit": "2026-08-13T13:46:45Z",
             "owner": "MystenLabs",
             "repo": "sui",
-            "stars": 7735
+            "stars": 7733
           }
         },
         {
@@ -1465,7 +1465,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T11:23:17Z",
+            "last_commit": "2026-08-13T10:16:03Z",
             "owner": "FrankC01",
             "repo": "pysui",
             "stars": 212
@@ -1548,7 +1548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:07:51.703Z",
+    "last_updated": "2026-08-13T14:07:51.681Z",
     "original_repository": "MystenLabs/awesome-move",
     "original_repository_sha": "f7caa001474bfa8ba9a43b1eadc53395febc7ea5",
     "enhanced_repository": "enhansome/enhansome-move",
