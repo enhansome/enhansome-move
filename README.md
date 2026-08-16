@@ -42,15 +42,15 @@ Move is a programming language for writing safe smart contracts originally devel
 ## Overview
 
 * [Installation](https://github.com/move-language/move/tree/main/language/tools/move-cli#installation) ⚠️ Archived
-* [Problem Statement](https://github.com/mystenlabs/awesome-move/blob/main/docs/problem_statement.md#problem-statement) ⭐ 1,497 | 🐛 24 | 📅 2024-08-14
+* [Problem Statement](https://github.com/mystenlabs/awesome-move/blob/main/docs/problem_statement.md#problem-statement) ⭐ 1,496 | 🐛 24 | 📅 2024-08-14
 
 ## Move-Powered Blockchains
 
 * [Diem](https://github.com/diem/diem) ⭐ 16,669 | 🐛 377 | 🌐 Rust | 📅 2026-08-14 - The original Move based blockchain from Meta (form. Libra by Facebook) (discontinued).
 * [Sui](https://github.com/MystenLabs/sui) ⭐ 7,735 | 🐛 811 | 🌐 Rust | 📅 2026-08-15 - A next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language (in [devnet](https://medium.com/mysten-labs/sui-devnet-public-release-a2be304ff36b)).
-* [Aptos](https://github.com/aptos-labs/aptos-core) ⭐ 6,439 | 🐛 564 | 🌐 Rust | 📅 2026-08-15 - Aptos-core strives towards being the safest and most scalable layer one blockchain solution (in [mainnet](https://explorer.aptoslabs.com/?network=mainnet)).
-* [Starcoin](https://github.com/starcoinorg/starcoin) ⭐ 1,154 | 🐛 240 | 🌐 Rust | 📅 2026-08-13 - A smart contract blockchain network that scales by layering (in [mainnet](https://stcscan.io/)).
-* [Celo](https://github.com/celo-org/celo-blockchain) ⭐ 627 | 🐛 14 | 🌐 Go | 📅 2026-08-03 - Blockchain with EVM and MoveVM ([coming soon](https://www.businesswire.com/news/home/20210921006104/en/Celo-Sets-Sights-On-Becoming-Fastest-EVM-Chain-Through-Collaboration-With-Mysten-Labs)).
+* [Aptos](https://github.com/aptos-labs/aptos-core) ⭐ 6,438 | 🐛 565 | 🌐 Rust | 📅 2026-08-16 - Aptos-core strives towards being the safest and most scalable layer one blockchain solution (in [mainnet](https://explorer.aptoslabs.com/?network=mainnet)).
+* [Starcoin](https://github.com/starcoinorg/starcoin) ⭐ 1,153 | 🐛 240 | 🌐 Rust | 📅 2026-08-13 - A smart contract blockchain network that scales by layering (in [mainnet](https://stcscan.io/)).
+* [Celo](https://github.com/celo-org/celo-blockchain) ⭐ 627 | 🐛 13 | 🌐 Go | 📅 2026-08-16 - Blockchain with EVM and MoveVM ([coming soon](https://www.businesswire.com/news/home/20210921006104/en/Celo-Sets-Sights-On-Becoming-Fastest-EVM-Chain-Through-Collaboration-With-Mysten-Labs)).
 * [ChainX](https://github.com/chainx-org/ChainX) ⭐ 325 | 🐛 7 | 🌐 Rust | 📅 2025-12-18 - Bitcoin's layer2 smart contract network has already supported WASM and EVM, and is supporting MoveVM (in [mainnet](https://scan.chainx.org)).
 * [0L](https://github.com/OLSF/libra) ⚠️ Archived - A reference implementation of a neutral replicated state machine. Forked from the Libra/Diem technologies (in [mainnet](https://0l.network/)).
 * [Pontem](https://github.com/pontem-network/pontem) ⚠️ Archived - Substrate based parachain with MoveVM onboard (in [testnet](https://polkadot.js.org/apps/?rpc=wss://testnet.pontem.network/ws#/explorer)).
@@ -162,7 +162,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 
 * [Diem Framework](https://github.com/diem/diem/tree/main/diem-move/diem-framework/DPN) ⭐ 16,669 | 🐛 377 | 🌐 Rust | 📅 2026-08-14
 * [Sui Framework](https://github.com/MystenLabs/sui/tree/main/crates/sui-framework) ⭐ 7,735 | 🐛 811 | 🌐 Rust | 📅 2026-08-15
-* [Aptos Framework](https://github.com/aptos-labs/aptos-core/tree/main/aptos-move/framework) ⭐ 6,439 | 🐛 564 | 🌐 Rust | 📅 2026-08-15
+* [Aptos Framework](https://github.com/aptos-labs/aptos-core/tree/main/aptos-move/framework) ⭐ 6,438 | 🐛 565 | 🌐 Rust | 📅 2026-08-16
 * [0L Framework](https://github.com/OLSF/libra/tree/main/language/diem-framework/modules/0L) ⚠️ Archived
 * [Starcoin Framework](https://github.com/starcoinorg/starcoin-framework) ⭐ 48 | 🐛 28 | 🌐 Move | 📅 2025-12-27
 
@@ -298,4 +298,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
