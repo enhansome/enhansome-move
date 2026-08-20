@@ -51,7 +51,7 @@
             "last_commit": "2026-08-14T05:52:35Z",
             "owner": "diem",
             "repo": "diem",
-            "stars": 16670
+            "stars": 16669
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 426075845,
             "language": "Rust",
-            "last_commit": "2026-08-19T13:00:40Z",
+            "last_commit": "2026-08-20T13:13:58Z",
             "owner": "MystenLabs",
             "repo": "sui",
-            "stars": 7737
+            "stars": 7738
           }
         },
         {
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 462597790,
             "language": "Rust",
-            "last_commit": "2026-08-19T12:26:43Z",
+            "last_commit": "2026-08-20T13:16:23Z",
             "owner": "aptos-labs",
             "repo": "aptos-core",
-            "stars": 6438
+            "stars": 6437
           }
         },
         {
@@ -93,7 +93,7 @@
             "archived": false,
             "id": 238777884,
             "language": "Rust",
-            "last_commit": "2026-08-19T13:08:58Z",
+            "last_commit": "2026-08-20T11:58:49Z",
             "owner": "starcoinorg",
             "repo": "starcoin",
             "stars": 1153
@@ -176,10 +176,10 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-19T13:00:40Z",
+                "last_commit": "2026-08-20T13:13:58Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7737
+                "stars": 7738
               }
             },
             {
@@ -411,7 +411,7 @@
                 "last_commit": "2026-08-14T05:52:35Z",
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16670
+                "stars": 16669
               }
             },
             {
@@ -426,7 +426,7 @@
                 "last_commit": "2026-08-14T05:52:35Z",
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16670
+                "stars": 16669
               }
             },
             {
@@ -441,7 +441,7 @@
                 "last_commit": "2026-08-14T05:52:35Z",
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16670
+                "stars": 16669
               }
             },
             {
@@ -456,7 +456,7 @@
                 "last_commit": "2026-08-14T05:52:35Z",
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16670
+                "stars": 16669
               }
             },
             {
@@ -468,10 +468,10 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-19T13:00:40Z",
+                "last_commit": "2026-08-20T13:13:58Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7737
+                "stars": 7738
               }
             },
             {
@@ -587,10 +587,10 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-19T13:00:40Z",
+                "last_commit": "2026-08-20T13:13:58Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7737
+                "stars": 7738
               }
             },
             {
@@ -762,7 +762,7 @@
                 "last_commit": "2026-08-14T05:52:35Z",
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16670
+                "stars": 16669
               }
             },
             {
@@ -777,7 +777,7 @@
                 "last_commit": "2026-08-14T05:52:35Z",
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16670
+                "stars": 16669
               }
             },
             {
@@ -881,7 +881,7 @@
                 "last_commit": "2026-08-14T05:52:35Z",
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16670
+                "stars": 16669
               }
             },
             {
@@ -933,7 +933,7 @@
                 "last_commit": "2026-08-14T05:52:35Z",
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16670
+                "stars": 16669
               }
             },
             {
@@ -945,10 +945,10 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-19T13:00:40Z",
+                "last_commit": "2026-08-20T13:13:58Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7737
+                "stars": 7738
               }
             },
             {
@@ -960,10 +960,10 @@
                 "archived": false,
                 "id": 462597790,
                 "language": "Rust",
-                "last_commit": "2026-08-19T12:26:43Z",
+                "last_commit": "2026-08-20T13:16:23Z",
                 "owner": "aptos-labs",
                 "repo": "aptos-core",
-                "stars": 6438
+                "stars": 6437
               }
             },
             {
@@ -1387,10 +1387,10 @@
             "archived": false,
             "id": 426075845,
             "language": "Rust",
-            "last_commit": "2026-08-19T13:00:40Z",
+            "last_commit": "2026-08-20T13:13:58Z",
             "owner": "MystenLabs",
             "repo": "sui",
-            "stars": 7737
+            "stars": 7738
           }
         },
         {
@@ -1464,10 +1464,10 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-19T13:00:40Z",
+                "last_commit": "2026-08-20T13:13:58Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7737
+                "stars": 7738
               }
             },
             {
@@ -1544,10 +1544,10 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-19T13:00:40Z",
+                "last_commit": "2026-08-20T13:13:58Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7737
+                "stars": 7738
               }
             },
             {
@@ -1635,7 +1635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T13:30:53.144Z",
+    "last_updated": "2026-08-20T13:33:30.833Z",
     "original_repository": "MystenLabs/awesome-move",
     "original_repository_id": 462006135,
     "original_repository_sha": "f7caa001474bfa8ba9a43b1eadc53395febc7ea5",

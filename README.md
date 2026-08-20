@@ -46,10 +46,10 @@ Move is a programming language for writing safe smart contracts originally devel
 
 ## Move-Powered Blockchains
 
-* [Diem](https://github.com/diem/diem) ⭐ 16,670 | 🐛 377 | 🌐 Rust | 📅 2026-08-14 - The original Move based blockchain from Meta (form. Libra by Facebook) (discontinued).
-* [Sui](https://github.com/MystenLabs/sui) ⭐ 7,737 | 🐛 813 | 🌐 Rust | 📅 2026-08-19 - A next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language (in [devnet](https://medium.com/mysten-labs/sui-devnet-public-release-a2be304ff36b)).
-* [Aptos](https://github.com/aptos-labs/aptos-core) ⭐ 6,438 | 🐛 565 | 🌐 Rust | 📅 2026-08-19 - Aptos-core strives towards being the safest and most scalable layer one blockchain solution (in [mainnet](https://explorer.aptoslabs.com/?network=mainnet)).
-* [Starcoin](https://github.com/starcoinorg/starcoin) ⭐ 1,153 | 🐛 244 | 🌐 Rust | 📅 2026-08-19 - A smart contract blockchain network that scales by layering (in [mainnet](https://stcscan.io/)).
+* [Diem](https://github.com/diem/diem) ⭐ 16,669 | 🐛 377 | 🌐 Rust | 📅 2026-08-14 - The original Move based blockchain from Meta (form. Libra by Facebook) (discontinued).
+* [Sui](https://github.com/MystenLabs/sui) ⭐ 7,738 | 🐛 811 | 🌐 Rust | 📅 2026-08-20 - A next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language (in [devnet](https://medium.com/mysten-labs/sui-devnet-public-release-a2be304ff36b)).
+* [Aptos](https://github.com/aptos-labs/aptos-core) ⭐ 6,437 | 🐛 554 | 🌐 Rust | 📅 2026-08-20 - Aptos-core strives towards being the safest and most scalable layer one blockchain solution (in [mainnet](https://explorer.aptoslabs.com/?network=mainnet)).
+* [Starcoin](https://github.com/starcoinorg/starcoin) ⭐ 1,153 | 🐛 243 | 🌐 Rust | 📅 2026-08-20 - A smart contract blockchain network that scales by layering (in [mainnet](https://stcscan.io/)).
 * [Celo](https://github.com/celo-org/celo-blockchain) ⭐ 627 | 🐛 13 | 🌐 Go | 📅 2026-08-18 - Blockchain with EVM and MoveVM ([coming soon](https://www.businesswire.com/news/home/20210921006104/en/Celo-Sets-Sights-On-Becoming-Fastest-EVM-Chain-Through-Collaboration-With-Mysten-Labs)).
 * [ChainX](https://github.com/chainx-org/ChainX) ⭐ 325 | 🐛 7 | 🌐 Rust | 📅 2025-12-18 - Bitcoin's layer2 smart contract network has already supported WASM and EVM, and is supporting MoveVM (in [mainnet](https://scan.chainx.org)).
 * [0L](https://github.com/OLSF/libra) ⚠️ Archived - A reference implementation of a neutral replicated state machine. Forked from the Libra/Diem technologies (in [mainnet](https://0l.network/)).
@@ -84,7 +84,7 @@ Code written in Move.
 
 ### Fungible Tokens
 
-* [Fungible token examples](https://github.com/MystenLabs/sui/tree/main/sui_programmability/examples/fungible_tokens) ⭐ 7,737 | 🐛 813 | 🌐 Rust | 📅 2026-08-19 - Multiple example token implementations from Sui.
+* [Fungible token examples](https://github.com/MystenLabs/sui/tree/main/sui_programmability/examples/fungible_tokens) ⭐ 7,738 | 🐛 811 | 🌐 Rust | 📅 2026-08-20 - Multiple example token implementations from Sui.
 * [BasicCoin](https://github.com/move-language/move/tree/main/language/documentation/examples/experimental/basic-coin) ⚠️ Archived - A toy implementation of an [ERC20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)-like fungible token.
 * [Diem](https://github.com/OLSF/libra/blob/main/language/diem-framework/modules/Diem.move) ⚠️ Archived - An ERC20-like token with permissioned minting/burning, see also this [spec](https://github.com/diem/dip/blob/main/dips/dip-20.md) ⭐ 43 | 🐛 25 | 🌐 JavaScript | 📅 2022-04-28. Deployed on 0L.
 * [GAS](https://github.com/OLSF/libra/blob/main/language/diem-framework/modules/0L/GAS.move) ⚠️ Archived - A token that instantiates the Diem standard above. Deployed on 0L.
@@ -102,11 +102,11 @@ Code written in Move.
 
 ### Non-Fungible Tokens
 
-* [NFT](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/NFT.move) ⭐ 16,670 | 🐛 377 | 🌐 Rust | 📅 2026-08-14 - An implementation of a hybrid ERC721/ERC1155-like token. From Diem.
-* [BARS](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/BARS.move) ⭐ 16,670 | 🐛 377 | 🌐 Rust | 📅 2026-08-14 - An NFT that instantiates this hybrid standard. From Diem.
-* [MultiToken](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/MultiToken.move) ⭐ 16,670 | 🐛 377 | 🌐 Rust | 📅 2026-08-14 - An ERC1155-like token. From Diem.
-* [NFTGallery](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/NFTGallery.move) ⭐ 16,670 | 🐛 377 | 🌐 Rust | 📅 2026-08-14 - Utility for holding multiple NFT's of the same type. From Diem.
-* [NFT examples](https://github.com/MystenLabs/sui/tree/main/sui_programmability/examples/nfts) ⭐ 7,737 | 🐛 813 | 🌐 Rust | 📅 2026-08-19 - Multiple NFT example implementations from Sui.
+* [NFT](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/NFT.move) ⭐ 16,669 | 🐛 377 | 🌐 Rust | 📅 2026-08-14 - An implementation of a hybrid ERC721/ERC1155-like token. From Diem.
+* [BARS](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/BARS.move) ⭐ 16,669 | 🐛 377 | 🌐 Rust | 📅 2026-08-14 - An NFT that instantiates this hybrid standard. From Diem.
+* [MultiToken](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/MultiToken.move) ⭐ 16,669 | 🐛 377 | 🌐 Rust | 📅 2026-08-14 - An ERC1155-like token. From Diem.
+* [NFTGallery](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/NFTGallery.move) ⭐ 16,669 | 🐛 377 | 🌐 Rust | 📅 2026-08-14 - Utility for holding multiple NFT's of the same type. From Diem.
+* [NFT examples](https://github.com/MystenLabs/sui/tree/main/sui_programmability/examples/nfts) ⭐ 7,738 | 🐛 811 | 🌐 Rust | 📅 2026-08-20 - Multiple NFT example implementations from Sui.
 * [NFT Protocol](https://github.com/Origin-Byte/nft-protocol) ⭐ 154 | 🐛 19 | 🌐 TypeScript | 📅 2024-04-19 - NFT protocol and collection framework. From OriginByte.
 * [NFT](https://github.com/starcoinorg/starcoin-framework/blob/main/sources/NFT.move) ⭐ 48 | 🐛 28 | 🌐 Move | 📅 2025-12-27 - An ERC721-like token. Deployed on Starcoin.
 * [Merkle Airdrop](https://github.com/starcoinorg/starcoin-framework/blob/main/sources/MerkleNFT.move) ⭐ 48 | 🐛 28 | 🌐 Move | 📅 2025-12-27 - Utility for airdropping a large number of NFTs. Deployed on Starcoin.
@@ -119,7 +119,7 @@ Code written in Move.
 
 ### DeFi
 
-* [DeFi examples](https://github.com/MystenLabs/sui/tree/main/sui_programmability/examples/defi) ⭐ 7,737 | 🐛 813 | 🌐 Rust | 📅 2026-08-19 - Multiple DeFi example implementations from Sui.
+* [DeFi examples](https://github.com/MystenLabs/sui/tree/main/sui_programmability/examples/defi) ⭐ 7,738 | 🐛 811 | 🌐 Rust | 📅 2026-08-20 - Multiple DeFi example implementations from Sui.
 * [CoinSwap](https://github.com/move-language/move/tree/main/language/documentation/examples/experimental/coin-swap) ⚠️ Archived - A toy implementation of a [Uniswap](https://uniswap.org/)-like liquidity pool containing two tokens.
 * [Offer](https://github.com/move-language/move/blob/main/language/move-stdlib/nursery/sources/offer.move) ⚠️ Archived - Generic implementation of atomic swaps for any pair of assets.
 * [SuiAMMswap](https://github.com/OmniBTC/Sui-AMM-swap) ⭐ 88 | 🐛 0 | 🌐 Move | 📅 2023-04-13 - Sui AMM Swap implemented by the OmniBTC team.
@@ -137,8 +137,8 @@ Code written in Move.
 
 ### On-Chain Governance
 
-* [DiemSystem](https://github.com/diem/diem/blob/main/diem-move/diem-framework/DPN/sources/DiemSystem.move) ⭐ 16,670 | 🐛 377 | 🌐 Rust | 📅 2026-08-14 - Validator set management. From Diem.
-* [Vote](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/Vote.move) ⭐ 16,670 | 🐛 377 | 🌐 Rust | 📅 2026-08-14 - On-chain voting. From Diem.
+* [DiemSystem](https://github.com/diem/diem/blob/main/diem-move/diem-framework/DPN/sources/DiemSystem.move) ⭐ 16,669 | 🐛 377 | 🌐 Rust | 📅 2026-08-14 - Validator set management. From Diem.
+* [Vote](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/Vote.move) ⭐ 16,669 | 🐛 377 | 🌐 Rust | 📅 2026-08-14 - On-chain voting. From Diem.
 * [ValidatorUniverse](https://github.com/OLSF/libra/blob/main/language/diem-framework/modules/0L/ValidatorUniverse.move) ⚠️ Archived - Validator set management. Deployed on 0L.
 * [Oracle](https://github.com/OLSF/libra/blob/main/language/diem-framework/modules/0L/Oracle.move) ⚠️ Archived - For on-chain community voting. Deployed on 0L.
 * [DAO](https://github.com/starcoinorg/starcoin-framework/blob/main/sources/Dao.move) ⭐ 48 | 🐛 28 | 🌐 Move | 📅 2025-12-27 - For on-chain proposals and voting. Deployed on Starcoin.
@@ -150,7 +150,7 @@ Code written in Move.
 
 ### Accounts
 
-* [Account](https://github.com/diem/diem/blob/main/diem-move/diem-framework/core/sources/Account.move) ⭐ 16,670 | 🐛 377 | 🌐 Rust | 📅 2026-08-14 - A generic account for Diem-powered chains. From Diem.
+* [Account](https://github.com/diem/diem/blob/main/diem-move/diem-framework/core/sources/Account.move) ⭐ 16,669 | 🐛 377 | 🌐 Rust | 📅 2026-08-14 - A generic account for Diem-powered chains. From Diem.
 * [DiemAccount](https://github.com/OLSF/libra/blob/main/language/diem-framework/modules/DiemAccount.move) ⚠️ Archived - Fork of the above. From 0L.
 * [Account](https://github.com/starcoinorg/starcoin-framework/blob/main/sources/Account.move) ⭐ 48 | 🐛 28 | 🌐 Move | 📅 2025-12-27 - Fork of the above. From Starcoin.
 
@@ -160,9 +160,9 @@ A Move **framework** is the set of Move modules included in the genesis state of
 These modules typically implement key concepts like accounts, currencies, .
 The ability to separate blockchain-specific framework logic from the generic functionality of the Move language is a key part of Move's platform-agnostic design.
 
-* [Diem Framework](https://github.com/diem/diem/tree/main/diem-move/diem-framework/DPN) ⭐ 16,670 | 🐛 377 | 🌐 Rust | 📅 2026-08-14
-* [Sui Framework](https://github.com/MystenLabs/sui/tree/main/crates/sui-framework) ⭐ 7,737 | 🐛 813 | 🌐 Rust | 📅 2026-08-19
-* [Aptos Framework](https://github.com/aptos-labs/aptos-core/tree/main/aptos-move/framework) ⭐ 6,438 | 🐛 565 | 🌐 Rust | 📅 2026-08-19
+* [Diem Framework](https://github.com/diem/diem/tree/main/diem-move/diem-framework/DPN) ⭐ 16,669 | 🐛 377 | 🌐 Rust | 📅 2026-08-14
+* [Sui Framework](https://github.com/MystenLabs/sui/tree/main/crates/sui-framework) ⭐ 7,738 | 🐛 811 | 🌐 Rust | 📅 2026-08-20
+* [Aptos Framework](https://github.com/aptos-labs/aptos-core/tree/main/aptos-move/framework) ⭐ 6,437 | 🐛 554 | 🌐 Rust | 📅 2026-08-20
 * [0L Framework](https://github.com/OLSF/libra/tree/main/language/diem-framework/modules/0L) ⚠️ Archived
 * [Starcoin Framework](https://github.com/starcoinorg/starcoin-framework) ⭐ 48 | 🐛 28 | 🌐 Move | 📅 2025-12-27
 
@@ -208,7 +208,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 
 ## Wallets
 
-* [Sui Wallet](https://github.com/MystenLabs/sui/tree/main/apps/wallet) ⭐ 7,737 | 🐛 813 | 🌐 Rust | 📅 2026-08-19 - A chrome (v88+) extension wallet for Sui ([Chrome Webstore](https://chrome.google.com/webstore/detail/sui-wallet/opcgpfmipidbgpenhmajoajpbobppdil)).
+* [Sui Wallet](https://github.com/MystenLabs/sui/tree/main/apps/wallet) ⭐ 7,738 | 🐛 811 | 🌐 Rust | 📅 2026-08-20 - A chrome (v88+) extension wallet for Sui ([Chrome Webstore](https://chrome.google.com/webstore/detail/sui-wallet/opcgpfmipidbgpenhmajoajpbobppdil)).
 * [Pontem Wallet](https://github.com/pontem-network/pontem-wallet) ⭐ 48 | 🐛 22 | 📅 2024-04-19 - Wallet extension for Aptos network by the Pontem team ([Chrome Webstore](https://chrome.google.com/webstore/detail/pontem-wallet/phkbamefinggmakgklpkljjmgibohnba)).
 * [StarMask](https://github.com/starcoinorg/starmask-extension) ⭐ 43 | 🐛 38 | 🌐 JavaScript | 📅 2026-07-11 - A wallet for the Starcoin blockchain. Maintained by the Starcoin team ([Chrome Webstore](https://chrome.google.com/webstore/detail/starmask/mfhbebgoclkghebffdldpobeajmbecfk?hl=en)).
 * [Ethos Wallet](https://github.com/EthosWallet/chrome-extension) ⭐ 14 | 🐛 7 | 🌐 TypeScript | 📅 2024-06-25 - Open-source chrome extension wallet for Sui ([Chrome Webstore](https://chrome.google.com/webstore/detail/ethos-sui-wallet/mcbigmjiafegjnnogedioegffbooigli), [Website](https://ethoswallet.xyz/)).
@@ -219,7 +219,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 
 ### Wallet Adapters
 
-* [Sui Wallet](https://github.com/MystenLabs/sui/tree/main/sdk/wallet-adapter) ⭐ 7,737 | 🐛 813 | 🌐 Rust | 📅 2026-08-19 - Sui Wallet Adapter.
+* [Sui Wallet](https://github.com/MystenLabs/sui/tree/main/sdk/wallet-adapter) ⭐ 7,738 | 🐛 811 | 🌐 Rust | 📅 2026-08-20 - Sui Wallet Adapter.
 * [Suiet Wallet](https://github.com/suiet/wallet-adapter) ⭐ 83 | 🐛 4 | 🌐 TypeScript | 📅 2022-12-28 - Suiet Wallet Adapter.
 
 ### Wallet Kits
@@ -231,7 +231,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 
 ### Sui SDKs
 
-* [TS/JS SDK](https://github.com/MystenLabs/sui/tree/main/sdk/typescript) ⭐ 7,737 | 🐛 813 | 🌐 Rust | 📅 2026-08-19 (official)
+* [TS/JS SDK](https://github.com/MystenLabs/sui/tree/main/sdk/typescript) ⭐ 7,738 | 🐛 811 | 🌐 Rust | 📅 2026-08-20 (official)
 * [Python SDK](https://github.com/FrankC01/pysui) ⭐ 212 | 🐛 3 | 🌐 Python | 📅 2026-08-18 (community)
 * [Golang SDK 2](https://github.com/block-vision/sui-go-sdk) ⭐ 198 | 🐛 15 | 🌐 Go | 📅 2026-08-12 (community)
 * [Golang SDK 1](https://github.com/coming-chat/go-sui-sdk) ⭐ 101 | 🐛 8 | 🌐 Go | 📅 2025-02-06 (community)
@@ -298,4 +298,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
