@@ -163,6 +163,48 @@
       "title": "Move-Powered Blockchains"
     },
     {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Move Book",
+          "description": "Move book maintained by the Move core team (中文).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 480592723,
+            "language": "Rust",
+            "last_commit": "2024-05-04T21:17:51Z",
+            "owner": "move-language",
+            "repo": "move",
+            "stars": 2331
+          }
+        }
+      ],
+      "title": "Books"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Implementing, testing, and verifying a fungible token",
+          "description": "Maintained by the Move core team.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 480592723,
+            "language": "Rust",
+            "last_commit": "2024-05-04T21:17:51Z",
+            "owner": "move-language",
+            "repo": "move",
+            "stars": 2331
+          }
+        }
+      ],
+      "title": "Tutorials"
+    },
+    {
       "description": "Code written in Move.",
       "items": [
         {
@@ -747,6 +789,28 @@
           "description": null,
           "node_type": "group",
           "title": "DeFi"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dmens",
+              "description": "Decentralized Moments which is a Blockchain Twitter Protocol built on the Sui network.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 565739500,
+                "language": "Move",
+                "last_commit": "2023-05-04T04:23:09Z",
+                "owner": "coming-chat",
+                "repo": "Dmens",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SocialFi"
         },
         {
           "children": [
@@ -1629,13 +1693,57 @@
           "description": null,
           "node_type": "group",
           "title": "Sui SDKs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OmniSwap-Sui-SDK",
+              "description": "(community)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 563165651,
+                "language": "TypeScript",
+                "last_commit": "2023-02-20T07:00:57Z",
+                "owner": "OmniBTC",
+                "repo": "OmniSwap-Sui-SDK",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sui Dapps SDKs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Aptos Golang SDK",
+              "description": "(community)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 520708641,
+                "language": "Go",
+                "last_commit": "2024-12-11T23:34:30Z",
+                "owner": "coming-chat",
+                "repo": "go-aptos-sdk",
+                "stars": 50
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other network SDKs"
         }
       ],
       "title": "SDKs"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:37:11.410Z",
+    "last_updated": "2026-08-24T14:12:38.424Z",
     "original_repository": "MystenLabs/awesome-move",
     "original_repository_id": 462006135,
     "original_repository_sha": "f7caa001474bfa8ba9a43b1eadc53395febc7ea5",
