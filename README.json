@@ -63,7 +63,7 @@
             "archived": false,
             "id": 426075845,
             "language": "Rust",
-            "last_commit": "2026-08-25T03:51:12Z",
+            "last_commit": "2026-08-25T13:24:10Z",
             "owner": "MystenLabs",
             "repo": "sui",
             "stars": 7737
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 462597790,
             "language": "Rust",
-            "last_commit": "2026-08-25T02:05:25Z",
+            "last_commit": "2026-08-25T08:02:17Z",
             "owner": "aptos-labs",
             "repo": "aptos-core",
-            "stars": 6433
+            "stars": 6432
           }
         },
         {
@@ -218,7 +218,7 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-25T03:51:12Z",
+                "last_commit": "2026-08-25T13:24:10Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7737
@@ -510,7 +510,7 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-25T03:51:12Z",
+                "last_commit": "2026-08-25T13:24:10Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7737
@@ -629,7 +629,7 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-25T03:51:12Z",
+                "last_commit": "2026-08-25T13:24:10Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7737
@@ -1009,7 +1009,7 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-25T03:51:12Z",
+                "last_commit": "2026-08-25T13:24:10Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7737
@@ -1024,10 +1024,10 @@
                 "archived": false,
                 "id": 462597790,
                 "language": "Rust",
-                "last_commit": "2026-08-25T02:05:25Z",
+                "last_commit": "2026-08-25T08:02:17Z",
                 "owner": "aptos-labs",
                 "repo": "aptos-core",
-                "stars": 6433
+                "stars": 6432
               }
             },
             {
@@ -1451,7 +1451,7 @@
             "archived": false,
             "id": 426075845,
             "language": "Rust",
-            "last_commit": "2026-08-25T03:51:12Z",
+            "last_commit": "2026-08-25T13:24:10Z",
             "owner": "MystenLabs",
             "repo": "sui",
             "stars": 7737
@@ -1528,7 +1528,7 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-25T03:51:12Z",
+                "last_commit": "2026-08-25T13:24:10Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7737
@@ -1608,7 +1608,7 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-25T03:51:12Z",
+                "last_commit": "2026-08-25T13:24:10Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7737
@@ -1623,7 +1623,7 @@
                 "archived": false,
                 "id": 532577189,
                 "language": "Python",
-                "last_commit": "2026-08-21T08:57:41Z",
+                "last_commit": "2026-08-25T11:02:57Z",
                 "owner": "FrankC01",
                 "repo": "pysui",
                 "stars": 212
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:05:27.351Z",
+    "last_updated": "2026-08-25T13:35:29.705Z",
     "original_repository": "MystenLabs/awesome-move",
     "original_repository_id": 462006135,
     "original_repository_sha": "f7caa001474bfa8ba9a43b1eadc53395febc7ea5",
