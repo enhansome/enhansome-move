@@ -63,7 +63,7 @@
             "archived": false,
             "id": 426075845,
             "language": "Rust",
-            "last_commit": "2026-08-26T12:59:00Z",
+            "last_commit": "2026-08-27T05:39:58Z",
             "owner": "MystenLabs",
             "repo": "sui",
             "stars": 7738
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 462597790,
             "language": "Rust",
-            "last_commit": "2026-08-26T11:19:59Z",
+            "last_commit": "2026-08-27T11:00:54Z",
             "owner": "aptos-labs",
             "repo": "aptos-core",
-            "stars": 6432
+            "stars": 6431
           }
         },
         {
@@ -218,7 +218,7 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-26T12:59:00Z",
+                "last_commit": "2026-08-27T05:39:58Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7738
@@ -510,7 +510,7 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-26T12:59:00Z",
+                "last_commit": "2026-08-27T05:39:58Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7738
@@ -629,7 +629,7 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-26T12:59:00Z",
+                "last_commit": "2026-08-27T05:39:58Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7738
@@ -1009,7 +1009,7 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-26T12:59:00Z",
+                "last_commit": "2026-08-27T05:39:58Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7738
@@ -1024,10 +1024,10 @@
                 "archived": false,
                 "id": 462597790,
                 "language": "Rust",
-                "last_commit": "2026-08-26T11:19:59Z",
+                "last_commit": "2026-08-27T11:00:54Z",
                 "owner": "aptos-labs",
                 "repo": "aptos-core",
-                "stars": 6432
+                "stars": 6431
               }
             },
             {
@@ -1451,7 +1451,7 @@
             "archived": false,
             "id": 426075845,
             "language": "Rust",
-            "last_commit": "2026-08-26T12:59:00Z",
+            "last_commit": "2026-08-27T05:39:58Z",
             "owner": "MystenLabs",
             "repo": "sui",
             "stars": 7738
@@ -1528,7 +1528,7 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-26T12:59:00Z",
+                "last_commit": "2026-08-27T05:39:58Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7738
@@ -1608,7 +1608,7 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-26T12:59:00Z",
+                "last_commit": "2026-08-27T05:39:58Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7738
@@ -1743,9 +1743,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:40:12.765Z",
-    "original_repository": "MystenLabs/awesome-move",
-    "original_repository_id": 462006135,
+    "last_updated": "2026-08-27T11:52:16.965Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 462006135,
+      "language": null,
+      "last_commit": "2024-08-14T10:01:34Z",
+      "owner": "MystenLabs",
+      "repo": "awesome-move",
+      "stars": 1496
+    },
     "original_repository_sha": "f7caa001474bfa8ba9a43b1eadc53395febc7ea5",
     "enhanced_repository": "enhansome/enhansome-move",
     "enhanced_repository_description": null,
