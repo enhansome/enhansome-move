@@ -16,7 +16,8 @@
             "owner": "move-language",
             "repo": "move",
             "stars": 2331
-          }
+          },
+          "first_seen": "2026-08-28T22:40:40.309Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "MystenLabs",
             "repo": "awesome-move",
             "stars": 1496
-          }
+          },
+          "first_seen": "2026-08-28T22:40:40.309Z"
         }
       ],
       "title": "Overview"
@@ -48,11 +50,12 @@
             "archived": false,
             "id": 179164257,
             "language": "Rust",
-            "last_commit": "2026-08-23T17:09:20Z",
+            "last_commit": "2026-08-28T05:52:26Z",
             "owner": "diem",
             "repo": "diem",
-            "stars": 16668
-          }
+            "stars": 16667
+          },
+          "first_seen": "2026-08-28T22:40:40.309Z"
         },
         {
           "node_type": "item",
@@ -63,11 +66,12 @@
             "archived": false,
             "id": 426075845,
             "language": "Rust",
-            "last_commit": "2026-08-27T22:34:18Z",
+            "last_commit": "2026-08-28T22:36:56Z",
             "owner": "MystenLabs",
             "repo": "sui",
-            "stars": 7739
-          }
+            "stars": 7740
+          },
+          "first_seen": "2026-08-28T22:40:40.309Z"
         },
         {
           "node_type": "item",
@@ -78,11 +82,12 @@
             "archived": false,
             "id": 462597790,
             "language": "Rust",
-            "last_commit": "2026-08-27T22:30:14Z",
+            "last_commit": "2026-08-28T21:34:30Z",
             "owner": "aptos-labs",
             "repo": "aptos-core",
-            "stars": 6430
-          }
+            "stars": 6429
+          },
+          "first_seen": "2026-08-28T22:40:40.309Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "starcoinorg",
             "repo": "starcoin",
             "stars": 1152
-          }
+          },
+          "first_seen": "2026-08-28T22:40:40.309Z"
         },
         {
           "node_type": "item",
@@ -108,11 +114,12 @@
             "archived": false,
             "id": 126412552,
             "language": "Go",
-            "last_commit": "2026-08-26T10:55:38Z",
+            "last_commit": "2026-08-28T18:58:08Z",
             "owner": "celo-org",
             "repo": "celo-blockchain",
             "stars": 627
-          }
+          },
+          "first_seen": "2026-08-28T22:40:40.309Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "chainx-org",
             "repo": "ChainX",
             "stars": 325
-          }
+          },
+          "first_seen": "2026-08-28T22:40:40.309Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "0LNetworkCommunity",
             "repo": "libra-legacy-v5",
             "stars": 244
-          }
+          },
+          "first_seen": "2026-08-28T22:40:40.309Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "pontem-network",
             "repo": "pontem",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T22:40:40.309Z"
         }
       ],
       "title": "Move-Powered Blockchains"
@@ -178,7 +188,8 @@
             "owner": "move-language",
             "repo": "move",
             "stars": 2331
-          }
+          },
+          "first_seen": "2026-08-28T22:40:40.309Z"
         }
       ],
       "title": "Books"
@@ -199,7 +210,8 @@
             "owner": "move-language",
             "repo": "move",
             "stars": 2331
-          }
+          },
+          "first_seen": "2026-08-28T22:40:40.309Z"
         }
       ],
       "title": "Tutorials"
@@ -218,11 +230,12 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-27T22:34:18Z",
+                "last_commit": "2026-08-28T22:36:56Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7739
-              }
+                "stars": 7740
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -237,7 +250,8 @@
                 "owner": "move-language",
                 "repo": "move",
                 "stars": 2331
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -252,7 +266,8 @@
                 "owner": "0LNetworkCommunity",
                 "repo": "libra-legacy-v5",
                 "stars": 244
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -267,7 +282,8 @@
                 "owner": "0LNetworkCommunity",
                 "repo": "libra-legacy-v5",
                 "stars": 244
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -282,7 +298,8 @@
                 "owner": "0LNetworkCommunity",
                 "repo": "libra-legacy-v5",
                 "stars": 244
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -297,7 +314,8 @@
                 "owner": "starcoinorg",
                 "repo": "starcoin-framework",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -312,7 +330,8 @@
                 "owner": "starcoinorg",
                 "repo": "starcoin-framework",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -327,7 +346,8 @@
                 "owner": "Elements-Studio",
                 "repo": "starswap-core",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -342,7 +362,8 @@
                 "owner": "OmniBTC",
                 "repo": "OmniBridge",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -357,7 +378,8 @@
                 "owner": "OmniBTC",
                 "repo": "OmniBridge",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -372,7 +394,8 @@
                 "owner": "BFlyFinance",
                 "repo": "FAI",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -387,7 +410,8 @@
                 "owner": "wenwenprotocol",
                 "repo": "wen-protocol",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -402,7 +426,8 @@
                 "owner": "Elements-Studio",
                 "repo": "poly-stc-contracts",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -417,7 +442,8 @@
                 "owner": "Elements-Studio",
                 "repo": "poly-stc-contracts",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -432,7 +458,8 @@
                 "owner": "BFlyFinance",
                 "repo": "FLY",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             }
           ],
           "description": null,
@@ -450,11 +477,12 @@
                 "archived": false,
                 "id": 179164257,
                 "language": "Rust",
-                "last_commit": "2026-08-23T17:09:20Z",
+                "last_commit": "2026-08-28T05:52:26Z",
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16668
-              }
+                "stars": 16667
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -465,11 +493,12 @@
                 "archived": false,
                 "id": 179164257,
                 "language": "Rust",
-                "last_commit": "2026-08-23T17:09:20Z",
+                "last_commit": "2026-08-28T05:52:26Z",
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16668
-              }
+                "stars": 16667
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -480,11 +509,12 @@
                 "archived": false,
                 "id": 179164257,
                 "language": "Rust",
-                "last_commit": "2026-08-23T17:09:20Z",
+                "last_commit": "2026-08-28T05:52:26Z",
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16668
-              }
+                "stars": 16667
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -495,11 +525,12 @@
                 "archived": false,
                 "id": 179164257,
                 "language": "Rust",
-                "last_commit": "2026-08-23T17:09:20Z",
+                "last_commit": "2026-08-28T05:52:26Z",
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16668
-              }
+                "stars": 16667
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -510,11 +541,12 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-27T22:34:18Z",
+                "last_commit": "2026-08-28T22:36:56Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7739
-              }
+                "stars": 7740
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -529,7 +561,8 @@
                 "owner": "Origin-Byte",
                 "repo": "protocol",
                 "stars": 154
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -544,7 +577,8 @@
                 "owner": "starcoinorg",
                 "repo": "starcoin-framework",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -559,7 +593,8 @@
                 "owner": "starcoinorg",
                 "repo": "starcoin-framework",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -574,7 +609,8 @@
                 "owner": "Suia2023",
                 "repo": "suia",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             }
           ],
           "description": null,
@@ -596,7 +632,8 @@
                 "owner": "NonceGeek",
                 "repo": "MoveDID",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -611,7 +648,8 @@
                 "owner": "coming-chat",
                 "repo": "aptos-cid",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             }
           ],
           "description": null,
@@ -629,11 +667,12 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-27T22:34:18Z",
+                "last_commit": "2026-08-28T22:36:56Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7739
-              }
+                "stars": 7740
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -648,7 +687,8 @@
                 "owner": "move-language",
                 "repo": "move",
                 "stars": 2331
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -663,7 +703,8 @@
                 "owner": "move-language",
                 "repo": "move",
                 "stars": 2331
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -678,7 +719,8 @@
                 "owner": "OmniBTC",
                 "repo": "Sui-AMM-swap",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -693,7 +735,8 @@
                 "owner": "OmniBTC",
                 "repo": "OmniSwap",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -708,7 +751,8 @@
                 "owner": "Elements-Studio",
                 "repo": "starswap-core",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -723,7 +767,8 @@
                 "owner": "OmniBTC",
                 "repo": "Aptos-AMM-swap",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -738,7 +783,8 @@
                 "owner": "OmniBTC",
                 "repo": "DolaProtocol",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -753,7 +799,8 @@
                 "owner": "coming-chat",
                 "repo": "aptos-red-packet",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -768,7 +815,8 @@
                 "owner": "coming-chat",
                 "repo": "object-market",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -783,7 +831,8 @@
                 "owner": "coming-chat",
                 "repo": "sui-red-packet",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             }
           ],
           "description": null,
@@ -805,7 +854,8 @@
                 "owner": "coming-chat",
                 "repo": "Dmens",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             }
           ],
           "description": null,
@@ -823,11 +873,12 @@
                 "archived": false,
                 "id": 179164257,
                 "language": "Rust",
-                "last_commit": "2026-08-23T17:09:20Z",
+                "last_commit": "2026-08-28T05:52:26Z",
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16668
-              }
+                "stars": 16667
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -838,11 +889,12 @@
                 "archived": false,
                 "id": 179164257,
                 "language": "Rust",
-                "last_commit": "2026-08-23T17:09:20Z",
+                "last_commit": "2026-08-28T05:52:26Z",
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16668
-              }
+                "stars": 16667
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -857,7 +909,8 @@
                 "owner": "0LNetworkCommunity",
                 "repo": "libra-legacy-v5",
                 "stars": 244
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -872,7 +925,8 @@
                 "owner": "0LNetworkCommunity",
                 "repo": "libra-legacy-v5",
                 "stars": 244
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -887,7 +941,8 @@
                 "owner": "starcoinorg",
                 "repo": "starcoin-framework",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             }
           ],
           "description": null,
@@ -909,7 +964,8 @@
                 "owner": "OmniBTC",
                 "repo": "OmniBridge",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -924,7 +980,8 @@
                 "owner": "Elements-Studio",
                 "repo": "poly-stc-contracts",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             }
           ],
           "description": null,
@@ -942,11 +999,12 @@
                 "archived": false,
                 "id": 179164257,
                 "language": "Rust",
-                "last_commit": "2026-08-23T17:09:20Z",
+                "last_commit": "2026-08-28T05:52:26Z",
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16668
-              }
+                "stars": 16667
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -961,7 +1019,8 @@
                 "owner": "0LNetworkCommunity",
                 "repo": "libra-legacy-v5",
                 "stars": 244
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -976,7 +1035,8 @@
                 "owner": "starcoinorg",
                 "repo": "starcoin-framework",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             }
           ],
           "description": null,
@@ -994,11 +1054,12 @@
                 "archived": false,
                 "id": 179164257,
                 "language": "Rust",
-                "last_commit": "2026-08-23T17:09:20Z",
+                "last_commit": "2026-08-28T05:52:26Z",
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16668
-              }
+                "stars": 16667
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -1009,11 +1070,12 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-27T22:34:18Z",
+                "last_commit": "2026-08-28T22:36:56Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7739
-              }
+                "stars": 7740
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -1024,11 +1086,12 @@
                 "archived": false,
                 "id": 462597790,
                 "language": "Rust",
-                "last_commit": "2026-08-27T22:30:14Z",
+                "last_commit": "2026-08-28T21:34:30Z",
                 "owner": "aptos-labs",
                 "repo": "aptos-core",
-                "stars": 6430
-              }
+                "stars": 6429
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -1043,7 +1106,8 @@
                 "owner": "0LNetworkCommunity",
                 "repo": "libra-legacy-v5",
                 "stars": 244
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -1058,7 +1122,8 @@
                 "owner": "starcoinorg",
                 "repo": "starcoin-framework",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             }
           ],
           "description": "A Move framework is the set of Move modules included in the genesis state of the chain. These modules typically implement key concepts like accounts, currencies, . The ability to separate blockchain-specific framework logic from the generic functionality of the Move language is a key part of Move's platform-agnostic design.",
@@ -1080,7 +1145,8 @@
                 "owner": "move-language",
                 "repo": "move",
                 "stars": 2331
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -1095,7 +1161,8 @@
                 "owner": "move-language",
                 "repo": "move",
                 "stars": 2331
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -1110,7 +1177,8 @@
                 "owner": "move-language",
                 "repo": "move",
                 "stars": 2331
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -1125,7 +1193,8 @@
                 "owner": "move-language",
                 "repo": "move",
                 "stars": 2331
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -1140,7 +1209,8 @@
                 "owner": "move-language",
                 "repo": "move",
                 "stars": 2331
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -1155,7 +1225,8 @@
                 "owner": "0LNetworkCommunity",
                 "repo": "libra-legacy-v5",
                 "stars": 244
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -1170,7 +1241,8 @@
                 "owner": "pentagonxyz",
                 "repo": "movemate",
                 "stars": 209
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -1185,7 +1257,8 @@
                 "owner": "movefuns",
                 "repo": "movefuns",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -1200,7 +1273,8 @@
                 "owner": "starcoinorg",
                 "repo": "starcoin-framework",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -1215,7 +1289,8 @@
                 "owner": "taoheorg",
                 "repo": "taohe",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -1230,7 +1305,8 @@
                 "owner": "snowflake-so",
                 "repo": "move-cron-parser",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             }
           ],
           "description": null,
@@ -1252,7 +1328,8 @@
                 "owner": "move-language",
                 "repo": "move",
                 "stars": 2331
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -1267,7 +1344,8 @@
                 "owner": "whonore",
                 "repo": "aoc-move",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             }
           ],
           "description": null,
@@ -1293,7 +1371,8 @@
             "owner": "move-language",
             "repo": "move",
             "stars": 2331
-          }
+          },
+          "first_seen": "2026-08-28T22:40:40.309Z"
         },
         {
           "node_type": "item",
@@ -1308,7 +1387,8 @@
             "owner": "move-language",
             "repo": "move",
             "stars": 2331
-          }
+          },
+          "first_seen": "2026-08-28T22:40:40.309Z"
         },
         {
           "node_type": "item",
@@ -1323,7 +1403,8 @@
             "owner": "move-language",
             "repo": "move",
             "stars": 2331
-          }
+          },
+          "first_seen": "2026-08-28T22:40:40.309Z"
         },
         {
           "node_type": "item",
@@ -1338,7 +1419,8 @@
             "owner": "imcoding-online",
             "repo": "js-move-playground",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T22:40:40.309Z"
         },
         {
           "node_type": "item",
@@ -1353,7 +1435,8 @@
             "owner": "coming-chat",
             "repo": "go-sui-indexer",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T22:40:40.309Z"
         }
       ],
       "title": "Tools"
@@ -1374,7 +1457,8 @@
             "owner": "move-language",
             "repo": "move",
             "stars": 2331
-          }
+          },
+          "first_seen": "2026-08-28T22:40:40.309Z"
         },
         {
           "node_type": "item",
@@ -1389,7 +1473,8 @@
             "owner": "pontem-network",
             "repo": "intellij-move",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T22:40:40.309Z"
         },
         {
           "node_type": "item",
@@ -1404,7 +1489,8 @@
             "owner": "0xmovses",
             "repo": "move.vim",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T22:40:40.309Z"
         },
         {
           "node_type": "item",
@@ -1419,7 +1505,8 @@
             "owner": "amnn",
             "repo": "move-mode",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T22:40:40.309Z"
         },
         {
           "node_type": "item",
@@ -1434,7 +1521,8 @@
             "owner": "starcoinorg",
             "repo": "starcoin-ide",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T22:40:40.309Z"
         }
       ],
       "title": "IDEs"
@@ -1451,11 +1539,12 @@
             "archived": false,
             "id": 426075845,
             "language": "Rust",
-            "last_commit": "2026-08-27T22:34:18Z",
+            "last_commit": "2026-08-28T22:36:56Z",
             "owner": "MystenLabs",
             "repo": "sui",
-            "stars": 7739
-          }
+            "stars": 7740
+          },
+          "first_seen": "2026-08-28T22:40:40.309Z"
         },
         {
           "node_type": "item",
@@ -1470,7 +1559,8 @@
             "owner": "pontem-network",
             "repo": "pontem-wallet",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T22:40:40.309Z"
         },
         {
           "node_type": "item",
@@ -1485,7 +1575,8 @@
             "owner": "starcoinorg",
             "repo": "starmask-extension",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T22:40:40.309Z"
         },
         {
           "node_type": "item",
@@ -1500,7 +1591,8 @@
             "owner": "codeyam-ai",
             "repo": "chrome-extension",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T22:40:40.309Z"
         },
         {
           "node_type": "item",
@@ -1515,7 +1607,8 @@
             "owner": "pontem-network",
             "repo": "lcs-js",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T22:40:40.309Z"
         },
         {
           "children": [
@@ -1528,11 +1621,12 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-27T22:34:18Z",
+                "last_commit": "2026-08-28T22:36:56Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7739
-              }
+                "stars": 7740
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -1547,7 +1641,8 @@
                 "owner": "suiet",
                 "repo": "wallet-adapter",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             }
           ],
           "description": null,
@@ -1569,7 +1664,8 @@
                 "owner": "suiet",
                 "repo": "wallet-kit",
                 "stars": 207
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -1584,7 +1680,8 @@
                 "owner": "Frankzhaopku",
                 "repo": "ethos-connect",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             }
           ],
           "description": null,
@@ -1608,11 +1705,12 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-27T22:34:18Z",
+                "last_commit": "2026-08-28T22:36:56Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7739
-              }
+                "stars": 7740
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -1627,7 +1725,8 @@
                 "owner": "FrankC01",
                 "repo": "pysui",
                 "stars": 212
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -1642,7 +1741,8 @@
                 "owner": "blockvisionhq",
                 "repo": "sui-go-sdk",
                 "stars": 198
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -1657,7 +1757,8 @@
                 "owner": "coming-chat",
                 "repo": "go-sui-sdk",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -1672,7 +1773,8 @@
                 "owner": "GrapeBaBa",
                 "repo": "sui4j",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             },
             {
               "node_type": "item",
@@ -1687,7 +1789,8 @@
                 "owner": "cosmostation",
                 "repo": "suikotlin",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             }
           ],
           "description": null,
@@ -1709,7 +1812,8 @@
                 "owner": "OmniBTC",
                 "repo": "OmniSwap-Sui-SDK",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             }
           ],
           "description": null,
@@ -1731,7 +1835,8 @@
                 "owner": "coming-chat",
                 "repo": "go-aptos-sdk",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T22:40:40.309Z"
             }
           ],
           "description": null,
@@ -1743,7 +1848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:36:19.992Z",
+    "last_updated": "2026-08-28T22:40:40.309Z",
     "original_repository_info": {
       "archived": false,
       "id": 462006135,
