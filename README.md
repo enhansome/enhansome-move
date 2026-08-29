@@ -42,15 +42,15 @@ Move is a programming language for writing safe smart contracts originally devel
 ## Overview
 
 * [Installation](https://github.com/move-language/move/tree/main/language/tools/move-cli#installation) ⚠️ Archived
-* [Problem Statement](https://github.com/mystenlabs/awesome-move/blob/main/docs/problem_statement.md#problem-statement) ⭐ 1,496 | 🐛 24 | 📅 2024-08-14
+* [Problem Statement](https://github.com/mystenlabs/awesome-move/blob/main/docs/problem_statement.md#problem-statement) ⭐ 1,495 | 🐛 24 | 📅 2024-08-14
 
 ## Move-Powered Blockchains
 
-* [Diem](https://github.com/diem/diem) ⭐ 16,667 | 🐛 368 | 🌐 Rust | 📅 2026-08-28 - The original Move based blockchain from Meta (form. Libra by Facebook) (discontinued).
+* [Diem](https://github.com/diem/diem) ⭐ 16,670 | 🐛 368 | 🌐 Rust | 📅 2026-08-28 - The original Move based blockchain from Meta (form. Libra by Facebook) (discontinued).
 * [Sui](https://github.com/MystenLabs/sui) ⭐ 7,740 | 🐛 824 | 🌐 Rust | 📅 2026-08-29 - A next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language (in [devnet](https://medium.com/mysten-labs/sui-devnet-public-release-a2be304ff36b)).
-* [Aptos](https://github.com/aptos-labs/aptos-core) ⭐ 6,429 | 🐛 545 | 🌐 Rust | 📅 2026-08-29 - Aptos-core strives towards being the safest and most scalable layer one blockchain solution (in [mainnet](https://explorer.aptoslabs.com/?network=mainnet)).
+* [Aptos](https://github.com/aptos-labs/aptos-core) ⭐ 6,429 | 🐛 547 | 🌐 Rust | 📅 2026-08-29 - Aptos-core strives towards being the safest and most scalable layer one blockchain solution (in [mainnet](https://explorer.aptoslabs.com/?network=mainnet)).
 * [Starcoin](https://github.com/starcoinorg/starcoin) ⭐ 1,152 | 🐛 243 | 🌐 Rust | 📅 2026-08-24 - A smart contract blockchain network that scales by layering (in [mainnet](https://stcscan.io/)).
-* [Celo](https://github.com/celo-org/celo-blockchain) ⭐ 627 | 🐛 13 | 🌐 Go | 📅 2026-08-28 - Blockchain with EVM and MoveVM ([coming soon](https://www.businesswire.com/news/home/20210921006104/en/Celo-Sets-Sights-On-Becoming-Fastest-EVM-Chain-Through-Collaboration-With-Mysten-Labs)).
+* [Celo](https://github.com/celo-org/celo-blockchain) ⭐ 627 | 🐛 14 | 🌐 Go | 📅 2026-08-29 - Blockchain with EVM and MoveVM ([coming soon](https://www.businesswire.com/news/home/20210921006104/en/Celo-Sets-Sights-On-Becoming-Fastest-EVM-Chain-Through-Collaboration-With-Mysten-Labs)).
 * [ChainX](https://github.com/chainx-org/ChainX) ⭐ 325 | 🐛 7 | 🌐 Rust | 📅 2025-12-18 - Bitcoin's layer2 smart contract network has already supported WASM and EVM, and is supporting MoveVM (in [mainnet](https://scan.chainx.org)).
 * [0L](https://github.com/OLSF/libra) ⚠️ Archived - A reference implementation of a neutral replicated state machine. Forked from the Libra/Diem technologies (in [mainnet](https://0l.network/)).
 * [Pontem](https://github.com/pontem-network/pontem) ⚠️ Archived - Substrate based parachain with MoveVM onboard (in [testnet](https://polkadot.js.org/apps/?rpc=wss://testnet.pontem.network/ws#/explorer)).
@@ -102,10 +102,10 @@ Code written in Move.
 
 ### Non-Fungible Tokens
 
-* [NFT](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/NFT.move) ⭐ 16,667 | 🐛 368 | 🌐 Rust | 📅 2026-08-28 - An implementation of a hybrid ERC721/ERC1155-like token. From Diem.
-* [BARS](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/BARS.move) ⭐ 16,667 | 🐛 368 | 🌐 Rust | 📅 2026-08-28 - An NFT that instantiates this hybrid standard. From Diem.
-* [MultiToken](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/MultiToken.move) ⭐ 16,667 | 🐛 368 | 🌐 Rust | 📅 2026-08-28 - An ERC1155-like token. From Diem.
-* [NFTGallery](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/NFTGallery.move) ⭐ 16,667 | 🐛 368 | 🌐 Rust | 📅 2026-08-28 - Utility for holding multiple NFT's of the same type. From Diem.
+* [NFT](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/NFT.move) ⭐ 16,670 | 🐛 368 | 🌐 Rust | 📅 2026-08-28 - An implementation of a hybrid ERC721/ERC1155-like token. From Diem.
+* [BARS](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/BARS.move) ⭐ 16,670 | 🐛 368 | 🌐 Rust | 📅 2026-08-28 - An NFT that instantiates this hybrid standard. From Diem.
+* [MultiToken](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/MultiToken.move) ⭐ 16,670 | 🐛 368 | 🌐 Rust | 📅 2026-08-28 - An ERC1155-like token. From Diem.
+* [NFTGallery](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/NFTGallery.move) ⭐ 16,670 | 🐛 368 | 🌐 Rust | 📅 2026-08-28 - Utility for holding multiple NFT's of the same type. From Diem.
 * [NFT examples](https://github.com/MystenLabs/sui/tree/main/sui_programmability/examples/nfts) ⭐ 7,740 | 🐛 824 | 🌐 Rust | 📅 2026-08-29 - Multiple NFT example implementations from Sui.
 * [NFT Protocol](https://github.com/Origin-Byte/nft-protocol) ⭐ 154 | 🐛 19 | 🌐 TypeScript | 📅 2024-04-19 - NFT protocol and collection framework. From OriginByte.
 * [NFT](https://github.com/starcoinorg/starcoin-framework/blob/main/sources/NFT.move) ⭐ 48 | 🐛 28 | 🌐 Move | 📅 2025-12-27 - An ERC721-like token. Deployed on Starcoin.
@@ -137,8 +137,8 @@ Code written in Move.
 
 ### On-Chain Governance
 
-* [DiemSystem](https://github.com/diem/diem/blob/main/diem-move/diem-framework/DPN/sources/DiemSystem.move) ⭐ 16,667 | 🐛 368 | 🌐 Rust | 📅 2026-08-28 - Validator set management. From Diem.
-* [Vote](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/Vote.move) ⭐ 16,667 | 🐛 368 | 🌐 Rust | 📅 2026-08-28 - On-chain voting. From Diem.
+* [DiemSystem](https://github.com/diem/diem/blob/main/diem-move/diem-framework/DPN/sources/DiemSystem.move) ⭐ 16,670 | 🐛 368 | 🌐 Rust | 📅 2026-08-28 - Validator set management. From Diem.
+* [Vote](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/Vote.move) ⭐ 16,670 | 🐛 368 | 🌐 Rust | 📅 2026-08-28 - On-chain voting. From Diem.
 * [ValidatorUniverse](https://github.com/OLSF/libra/blob/main/language/diem-framework/modules/0L/ValidatorUniverse.move) ⚠️ Archived - Validator set management. Deployed on 0L.
 * [Oracle](https://github.com/OLSF/libra/blob/main/language/diem-framework/modules/0L/Oracle.move) ⚠️ Archived - For on-chain community voting. Deployed on 0L.
 * [DAO](https://github.com/starcoinorg/starcoin-framework/blob/main/sources/Dao.move) ⭐ 48 | 🐛 28 | 🌐 Move | 📅 2025-12-27 - For on-chain proposals and voting. Deployed on Starcoin.
@@ -150,7 +150,7 @@ Code written in Move.
 
 ### Accounts
 
-* [Account](https://github.com/diem/diem/blob/main/diem-move/diem-framework/core/sources/Account.move) ⭐ 16,667 | 🐛 368 | 🌐 Rust | 📅 2026-08-28 - A generic account for Diem-powered chains. From Diem.
+* [Account](https://github.com/diem/diem/blob/main/diem-move/diem-framework/core/sources/Account.move) ⭐ 16,670 | 🐛 368 | 🌐 Rust | 📅 2026-08-28 - A generic account for Diem-powered chains. From Diem.
 * [DiemAccount](https://github.com/OLSF/libra/blob/main/language/diem-framework/modules/DiemAccount.move) ⚠️ Archived - Fork of the above. From 0L.
 * [Account](https://github.com/starcoinorg/starcoin-framework/blob/main/sources/Account.move) ⭐ 48 | 🐛 28 | 🌐 Move | 📅 2025-12-27 - Fork of the above. From Starcoin.
 
@@ -160,9 +160,9 @@ A Move **framework** is the set of Move modules included in the genesis state of
 These modules typically implement key concepts like accounts, currencies, .
 The ability to separate blockchain-specific framework logic from the generic functionality of the Move language is a key part of Move's platform-agnostic design.
 
-* [Diem Framework](https://github.com/diem/diem/tree/main/diem-move/diem-framework/DPN) ⭐ 16,667 | 🐛 368 | 🌐 Rust | 📅 2026-08-28
+* [Diem Framework](https://github.com/diem/diem/tree/main/diem-move/diem-framework/DPN) ⭐ 16,670 | 🐛 368 | 🌐 Rust | 📅 2026-08-28
 * [Sui Framework](https://github.com/MystenLabs/sui/tree/main/crates/sui-framework) ⭐ 7,740 | 🐛 824 | 🌐 Rust | 📅 2026-08-29
-* [Aptos Framework](https://github.com/aptos-labs/aptos-core/tree/main/aptos-move/framework) ⭐ 6,429 | 🐛 545 | 🌐 Rust | 📅 2026-08-29
+* [Aptos Framework](https://github.com/aptos-labs/aptos-core/tree/main/aptos-move/framework) ⭐ 6,429 | 🐛 547 | 🌐 Rust | 📅 2026-08-29
 * [0L Framework](https://github.com/OLSF/libra/tree/main/language/diem-framework/modules/0L) ⚠️ Archived
 * [Starcoin Framework](https://github.com/starcoinorg/starcoin-framework) ⭐ 48 | 🐛 28 | 🌐 Move | 📅 2025-12-27
 
