@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 480592723,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-04T21:17:51Z",
+            "open_issues": 206,
             "owner": "move-language",
             "repo": "move",
-            "stars": 2331
+            "stars": 2331,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
         },
@@ -26,12 +31,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and content from the Move community.",
+            "homepage": null,
             "id": 462006135,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2024-08-14T10:01:34Z",
+            "open_issues": 24,
             "owner": "MystenLabs",
             "repo": "awesome-move",
-            "stars": 1496
+            "stars": 1496,
+            "topics": [
+              "awesome",
+              "awesome-list"
+            ]
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
         }
@@ -48,12 +61,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.",
+            "homepage": "https://diem.com",
             "id": 179164257,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T05:52:26Z",
+            "open_issues": 368,
             "owner": "diem",
             "repo": "diem",
-            "stars": 16667
+            "stars": 16667,
+            "topics": [
+              "blockchain"
+            ]
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
         },
@@ -64,12 +84,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+            "homepage": "https://sui.io",
             "id": 426075845,
             "language": "Rust",
-            "last_commit": "2026-08-28T22:36:56Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:43:13Z",
+            "open_issues": 824,
             "owner": "MystenLabs",
             "repo": "sui",
-            "stars": 7740
+            "stars": 7740,
+            "topics": [
+              "blockchain",
+              "distributed-ledger-technology",
+              "move",
+              "smart-contracts"
+            ]
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
         },
@@ -80,12 +110,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.",
+            "homepage": "https://aptosnetwork.com/",
             "id": 462597790,
             "language": "Rust",
-            "last_commit": "2026-08-28T21:34:30Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:49:20Z",
+            "open_issues": 545,
             "owner": "aptos-labs",
             "repo": "aptos-core",
-            "stars": 6429
+            "stars": 6429,
+            "topics": [
+              "aptos",
+              "blockchain",
+              "blockchain-network",
+              "move",
+              "smart-contracts"
+            ]
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
         },
@@ -96,12 +137,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Starcoin - A Move smart contract blockchain network that scales by layering",
+            "homepage": null,
             "id": 238777884,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T12:01:33Z",
+            "open_issues": 243,
             "owner": "starcoinorg",
             "repo": "starcoin",
-            "stars": 1152
+            "stars": 1152,
+            "topics": [
+              "blockchain",
+              "cryptocurrency"
+            ]
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
         },
@@ -112,12 +161,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Previous official repository for the golang Celo Blockchain, for current see op-geth",
+            "homepage": "https://celo.org",
             "id": 126412552,
             "language": "Go",
-            "last_commit": "2026-08-28T18:58:08Z",
+            "license": "LGPL-3.0",
+            "last_commit": "2026-08-28T23:46:38Z",
+            "open_issues": 13,
             "owner": "celo-org",
             "repo": "celo-blockchain",
-            "stars": 627
+            "stars": 627,
+            "topics": [
+              "blockchain",
+              "celo",
+              "hacktoberfest",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
         },
@@ -128,12 +187,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bitcoin's layer2 smart contract network has already supported WASM and EVM, and is supporting MoveVM ",
+            "homepage": "https://github.com/chainx-org/ChainX",
             "id": 152560136,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2025-12-18T08:43:19Z",
+            "open_issues": 7,
             "owner": "chainx-org",
             "repo": "ChainX",
-            "stars": 325
+            "stars": 325,
+            "topics": [
+              "btc",
+              "evm",
+              "layer2",
+              "move",
+              "multichain",
+              "smart-contracts",
+              "substrate"
+            ]
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
         },
@@ -144,12 +216,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 263195716,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-24T21:02:37Z",
+            "open_issues": 140,
             "owner": "0LNetworkCommunity",
             "repo": "libra-legacy-v5",
-            "stars": 244
+            "stars": 244,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
         },
@@ -160,12 +237,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🚀 Pontem Parachain node with Move VM onboard.",
+            "homepage": "https://pontem.network",
             "id": 317478602,
             "language": "Move",
+            "license": "Apache-2.0",
             "last_commit": "2022-11-19T17:01:43Z",
+            "open_issues": 4,
             "owner": "pontem-network",
             "repo": "pontem",
-            "stars": 78
+            "stars": 78,
+            "topics": [
+              "diem",
+              "libra",
+              "polkadot",
+              "pontem-network",
+              "substrate"
+            ]
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
         }
@@ -182,12 +270,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 480592723,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-04T21:17:51Z",
+            "open_issues": 206,
             "owner": "move-language",
             "repo": "move",
-            "stars": 2331
+            "stars": 2331,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
         }
@@ -204,12 +297,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 480592723,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-04T21:17:51Z",
+            "open_issues": 206,
             "owner": "move-language",
             "repo": "move",
-            "stars": 2331
+            "stars": 2331,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
         }
@@ -228,12 +326,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+                "homepage": "https://sui.io",
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-28T22:36:56Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:43:13Z",
+                "open_issues": 824,
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7740
+                "stars": 7740,
+                "topics": [
+                  "blockchain",
+                  "distributed-ledger-technology",
+                  "move",
+                  "smart-contracts"
+                ]
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -244,12 +352,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 480592723,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-04T21:17:51Z",
+                "open_issues": 206,
                 "owner": "move-language",
                 "repo": "move",
-                "stars": 2331
+                "stars": 2331,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -260,12 +373,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 263195716,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-24T21:02:37Z",
+                "open_issues": 140,
                 "owner": "0LNetworkCommunity",
                 "repo": "libra-legacy-v5",
-                "stars": 244
+                "stars": 244,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -276,12 +394,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 263195716,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-24T21:02:37Z",
+                "open_issues": 140,
                 "owner": "0LNetworkCommunity",
                 "repo": "libra-legacy-v5",
-                "stars": 244
+                "stars": 244,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -292,12 +415,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 263195716,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-24T21:02:37Z",
+                "open_issues": 140,
                 "owner": "0LNetworkCommunity",
                 "repo": "libra-legacy-v5",
-                "stars": 244
+                "stars": 244,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -308,12 +436,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Starcoin Move framework",
+                "homepage": null,
                 "id": 463503429,
                 "language": "Move",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-27T12:33:03Z",
+                "open_issues": 28,
                 "owner": "starcoinorg",
                 "repo": "starcoin-framework",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -324,12 +457,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Starcoin Move framework",
+                "homepage": null,
                 "id": 463503429,
                 "language": "Move",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-27T12:33:03Z",
+                "open_issues": 28,
                 "owner": "starcoinorg",
                 "repo": "starcoin-framework",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -340,12 +478,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The swap project on Starcoin such as Uniswap a Sushiswap",
+                "homepage": null,
                 "id": 438836453,
                 "language": "Move",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-13T02:09:37Z",
+                "open_issues": 6,
                 "owner": "Elements-Studio",
                 "repo": "starswap-core",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -356,12 +499,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Solve the fully decentralized cross-chain between any chain.",
+                "homepage": null,
                 "id": 531026203,
                 "language": "Move",
+                "license": "Apache-2.0",
                 "last_commit": "2022-10-31T08:50:04Z",
+                "open_issues": 1,
                 "owner": "OmniBTC",
                 "repo": "OmniBridge",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -372,12 +520,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Solve the fully decentralized cross-chain between any chain.",
+                "homepage": null,
                 "id": 531026203,
                 "language": "Move",
+                "license": "Apache-2.0",
                 "last_commit": "2022-10-31T08:50:04Z",
+                "open_issues": 1,
                 "owner": "OmniBTC",
                 "repo": "OmniBridge",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -388,12 +541,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A stablecoin impletion in Move",
+                "homepage": null,
                 "id": 430533804,
                 "language": "Move",
+                "license": null,
                 "last_commit": "2022-11-07T04:15:43Z",
+                "open_issues": 1,
                 "owner": "BFlyFinance",
                 "repo": "FAI",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -404,12 +562,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WEN protocol for Starcoin",
+                "homepage": null,
                 "id": 460289339,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-04-22T08:08:11Z",
+                "open_issues": 1,
                 "owner": "wenwenprotocol",
                 "repo": "wen-protocol",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -420,12 +583,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Poly bridge cross chain move support on starcoin",
+                "homepage": null,
                 "id": 438847814,
                 "language": "Move",
+                "license": null,
                 "last_commit": "2025-03-16T03:36:07Z",
+                "open_issues": 4,
                 "owner": "Elements-Studio",
                 "repo": "poly-stc-contracts",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -436,12 +604,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Poly bridge cross chain move support on starcoin",
+                "homepage": null,
                 "id": 438847814,
                 "language": "Move",
+                "license": null,
                 "last_commit": "2025-03-16T03:36:07Z",
+                "open_issues": 4,
                 "owner": "Elements-Studio",
                 "repo": "poly-stc-contracts",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -452,12 +625,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "for internal",
+                "homepage": null,
                 "id": 520724666,
                 "language": "Move",
+                "license": null,
                 "last_commit": "2022-08-03T08:56:52Z",
+                "open_issues": 1,
                 "owner": "BFlyFinance",
                 "repo": "FLY",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             }
@@ -475,12 +653,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.",
+                "homepage": "https://diem.com",
                 "id": 179164257,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T05:52:26Z",
+                "open_issues": 368,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16667
+                "stars": 16667,
+                "topics": [
+                  "blockchain"
+                ]
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -491,12 +676,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.",
+                "homepage": "https://diem.com",
                 "id": 179164257,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T05:52:26Z",
+                "open_issues": 368,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16667
+                "stars": 16667,
+                "topics": [
+                  "blockchain"
+                ]
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -507,12 +699,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.",
+                "homepage": "https://diem.com",
                 "id": 179164257,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T05:52:26Z",
+                "open_issues": 368,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16667
+                "stars": 16667,
+                "topics": [
+                  "blockchain"
+                ]
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -523,12 +722,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.",
+                "homepage": "https://diem.com",
                 "id": 179164257,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T05:52:26Z",
+                "open_issues": 368,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16667
+                "stars": 16667,
+                "topics": [
+                  "blockchain"
+                ]
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -539,12 +745,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+                "homepage": "https://sui.io",
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-28T22:36:56Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:43:13Z",
+                "open_issues": 824,
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7740
+                "stars": 7740,
+                "topics": [
+                  "blockchain",
+                  "distributed-ledger-technology",
+                  "move",
+                  "smart-contracts"
+                ]
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -555,12 +771,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sui NFT Smart contracts maintained by the Origin Byte team",
+                "homepage": null,
                 "id": 535696480,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-04-19T10:03:34Z",
+                "open_issues": 19,
                 "owner": "Origin-Byte",
                 "repo": "protocol",
-                "stars": 154
+                "stars": 154,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -571,12 +792,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Starcoin Move framework",
+                "homepage": null,
                 "id": 463503429,
                 "language": "Move",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-27T12:33:03Z",
+                "open_issues": 28,
                 "owner": "starcoinorg",
                 "repo": "starcoin-framework",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -587,12 +813,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Starcoin Move framework",
+                "homepage": null,
                 "id": 463503429,
                 "language": "Move",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-27T12:33:03Z",
+                "open_issues": 28,
                 "owner": "starcoinorg",
                 "repo": "starcoin-framework",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -603,12 +834,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 540523005,
                 "language": "Move",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-19T09:22:25Z",
+                "open_issues": 0,
                 "owner": "Suia2023",
                 "repo": "suia",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             }
@@ -626,12 +862,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DID Solution on Movement. Aptos: 0x2df41622c0c1baabaa73b2c24360d205e23e803959ebbcb0e5b80462165893ed",
+                "homepage": "https://home.did.rootmud.xyz/",
                 "id": 521486819,
                 "language": "Move",
+                "license": "MIT",
                 "last_commit": "2025-04-03T05:35:29Z",
+                "open_issues": 8,
                 "owner": "NonceGeek",
                 "repo": "MoveDID",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "aptos",
+                  "blockchain",
+                  "move"
+                ]
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -642,12 +887,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Decentralized Identity on Aptos, the underlying account system of ComingChat",
+                "homepage": null,
                 "id": 550699397,
                 "language": "Move",
+                "license": "Apache-2.0",
                 "last_commit": "2022-11-01T03:34:41Z",
+                "open_issues": 0,
                 "owner": "coming-chat",
                 "repo": "aptos-cid",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             }
@@ -665,12 +915,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+                "homepage": "https://sui.io",
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-28T22:36:56Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:43:13Z",
+                "open_issues": 824,
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7740
+                "stars": 7740,
+                "topics": [
+                  "blockchain",
+                  "distributed-ledger-technology",
+                  "move",
+                  "smart-contracts"
+                ]
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -681,12 +941,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 480592723,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-04T21:17:51Z",
+                "open_issues": 206,
                 "owner": "move-language",
                 "repo": "move",
-                "stars": 2331
+                "stars": 2331,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -697,12 +962,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 480592723,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-04T21:17:51Z",
+                "open_issues": 206,
                 "owner": "move-language",
                 "repo": "move",
-                "stars": 2331
+                "stars": 2331,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -713,12 +983,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The first open source AMM swap on the Sui. @mystenLabs",
+                "homepage": null,
                 "id": 547830058,
                 "language": "Move",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-13T08:17:10Z",
+                "open_issues": 0,
                 "owner": "OmniBTC",
                 "repo": "Sui-AMM-swap",
-                "stars": 88
+                "stars": 88,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -729,12 +1004,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Based on Wormhole/LayerZero, an omnichain interoperability protocol,users can swap any token between any chain with one click.",
+                "homepage": "https://www.omnibtc.finance/",
                 "id": 516615184,
                 "language": "Solidity",
+                "license": "GPL-3.0",
                 "last_commit": "2025-03-17T08:52:31Z",
+                "open_issues": 9,
                 "owner": "OmniBTC",
                 "repo": "OmniSwap",
-                "stars": 82
+                "stars": 82,
+                "topics": [
+                  "bsc",
+                  "ethereum",
+                  "layerzero",
+                  "omnichain",
+                  "stargate",
+                  "wormhole"
+                ]
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -745,12 +1032,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The swap project on Starcoin such as Uniswap a Sushiswap",
+                "homepage": null,
                 "id": 438836453,
                 "language": "Move",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-13T02:09:37Z",
+                "open_issues": 6,
                 "owner": "Elements-Studio",
                 "repo": "starswap-core",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -761,12 +1053,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AMM Swap on @aptos-labs",
+                "homepage": null,
                 "id": 546558067,
                 "language": "Move",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-08T10:01:21Z",
+                "open_issues": 1,
                 "owner": "OmniBTC",
                 "repo": "Aptos-AMM-swap",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "aptos"
+                ]
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -777,12 +1076,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DOLA Protocol is a Decentralized Omnichain Liquidity Aggregation Protocol with the single coin pool of each public chain as the core, Wormhole, Layerzero and other cross-chain messaging protocols as the bridge, and Sui public chain as the settlement center.",
+                "homepage": null,
                 "id": 563756097,
                 "language": "Move",
+                "license": "GPL-3.0",
                 "last_commit": "2025-06-26T09:01:05Z",
+                "open_issues": 3,
                 "owner": "OmniBTC",
                 "repo": "DolaProtocol",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -793,12 +1097,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A red packet social application that combines the privacy chat on ComingChat and the omnichain wallet on ComingChat.",
+                "homepage": null,
                 "id": 521490553,
                 "language": "Move",
+                "license": "Apache-2.0",
                 "last_commit": "2022-11-02T09:32:05Z",
+                "open_issues": 0,
                 "owner": "coming-chat",
                 "repo": "aptos-red-packet",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -809,12 +1118,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Object Market is a unique object trading marketplace in the Sui network.",
+                "homepage": null,
                 "id": 572919024,
                 "language": "Move",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-11T01:58:41Z",
+                "open_issues": 0,
                 "owner": "coming-chat",
                 "repo": "object-market",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "blockchain",
+                  "nft",
+                  "sui"
+                ]
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -825,12 +1143,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A red packet social application that combines the privacy chat on ComingChat and the omnichain wallet on ComingChat.",
+                "homepage": null,
                 "id": 560795401,
                 "language": "Move",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-04T02:34:32Z",
+                "open_issues": 0,
                 "owner": "coming-chat",
                 "repo": "sui-red-packet",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             }
@@ -848,12 +1171,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Decentralized Moments which is  a Blockchain Twitter Protocol  built on the Sui network",
+                "homepage": null,
                 "id": 565739500,
                 "language": "Move",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-04T04:23:09Z",
+                "open_issues": 0,
                 "owner": "coming-chat",
                 "repo": "Dmens",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "blockchain",
+                  "twitter"
+                ]
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             }
@@ -871,12 +1202,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.",
+                "homepage": "https://diem.com",
                 "id": 179164257,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T05:52:26Z",
+                "open_issues": 368,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16667
+                "stars": 16667,
+                "topics": [
+                  "blockchain"
+                ]
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -887,12 +1225,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.",
+                "homepage": "https://diem.com",
                 "id": 179164257,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T05:52:26Z",
+                "open_issues": 368,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16667
+                "stars": 16667,
+                "topics": [
+                  "blockchain"
+                ]
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -903,12 +1248,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 263195716,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-24T21:02:37Z",
+                "open_issues": 140,
                 "owner": "0LNetworkCommunity",
                 "repo": "libra-legacy-v5",
-                "stars": 244
+                "stars": 244,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -919,12 +1269,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 263195716,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-24T21:02:37Z",
+                "open_issues": 140,
                 "owner": "0LNetworkCommunity",
                 "repo": "libra-legacy-v5",
-                "stars": 244
+                "stars": 244,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -935,12 +1290,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Starcoin Move framework",
+                "homepage": null,
                 "id": 463503429,
                 "language": "Move",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-27T12:33:03Z",
+                "open_issues": 28,
                 "owner": "starcoinorg",
                 "repo": "starcoin-framework",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             }
@@ -958,12 +1318,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Solve the fully decentralized cross-chain between any chain.",
+                "homepage": null,
                 "id": 531026203,
                 "language": "Move",
+                "license": "Apache-2.0",
                 "last_commit": "2022-10-31T08:50:04Z",
+                "open_issues": 1,
                 "owner": "OmniBTC",
                 "repo": "OmniBridge",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -974,12 +1339,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Poly bridge cross chain move support on starcoin",
+                "homepage": null,
                 "id": 438847814,
                 "language": "Move",
+                "license": null,
                 "last_commit": "2025-03-16T03:36:07Z",
+                "open_issues": 4,
                 "owner": "Elements-Studio",
                 "repo": "poly-stc-contracts",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             }
@@ -997,12 +1367,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.",
+                "homepage": "https://diem.com",
                 "id": 179164257,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T05:52:26Z",
+                "open_issues": 368,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16667
+                "stars": 16667,
+                "topics": [
+                  "blockchain"
+                ]
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -1013,12 +1390,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 263195716,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-24T21:02:37Z",
+                "open_issues": 140,
                 "owner": "0LNetworkCommunity",
                 "repo": "libra-legacy-v5",
-                "stars": 244
+                "stars": 244,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -1029,12 +1411,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Starcoin Move framework",
+                "homepage": null,
                 "id": 463503429,
                 "language": "Move",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-27T12:33:03Z",
+                "open_issues": 28,
                 "owner": "starcoinorg",
                 "repo": "starcoin-framework",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             }
@@ -1052,12 +1439,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.",
+                "homepage": "https://diem.com",
                 "id": 179164257,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T05:52:26Z",
+                "open_issues": 368,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16667
+                "stars": 16667,
+                "topics": [
+                  "blockchain"
+                ]
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -1068,12 +1462,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+                "homepage": "https://sui.io",
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-28T22:36:56Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:43:13Z",
+                "open_issues": 824,
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7740
+                "stars": 7740,
+                "topics": [
+                  "blockchain",
+                  "distributed-ledger-technology",
+                  "move",
+                  "smart-contracts"
+                ]
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -1084,12 +1488,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.",
+                "homepage": "https://aptosnetwork.com/",
                 "id": 462597790,
                 "language": "Rust",
-                "last_commit": "2026-08-28T21:34:30Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T03:49:20Z",
+                "open_issues": 545,
                 "owner": "aptos-labs",
                 "repo": "aptos-core",
-                "stars": 6429
+                "stars": 6429,
+                "topics": [
+                  "aptos",
+                  "blockchain",
+                  "blockchain-network",
+                  "move",
+                  "smart-contracts"
+                ]
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -1100,12 +1515,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 263195716,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-24T21:02:37Z",
+                "open_issues": 140,
                 "owner": "0LNetworkCommunity",
                 "repo": "libra-legacy-v5",
-                "stars": 244
+                "stars": 244,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -1116,12 +1536,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Starcoin Move framework",
+                "homepage": null,
                 "id": 463503429,
                 "language": "Move",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-27T12:33:03Z",
+                "open_issues": 28,
                 "owner": "starcoinorg",
                 "repo": "starcoin-framework",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             }
@@ -1139,12 +1564,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 480592723,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-04T21:17:51Z",
+                "open_issues": 206,
                 "owner": "move-language",
                 "repo": "move",
-                "stars": 2331
+                "stars": 2331,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -1155,12 +1585,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 480592723,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-04T21:17:51Z",
+                "open_issues": 206,
                 "owner": "move-language",
                 "repo": "move",
-                "stars": 2331
+                "stars": 2331,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -1171,12 +1606,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 480592723,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-04T21:17:51Z",
+                "open_issues": 206,
                 "owner": "move-language",
                 "repo": "move",
-                "stars": 2331
+                "stars": 2331,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -1187,12 +1627,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 480592723,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-04T21:17:51Z",
+                "open_issues": 206,
                 "owner": "move-language",
                 "repo": "move",
-                "stars": 2331
+                "stars": 2331,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -1203,12 +1648,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 480592723,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-04T21:17:51Z",
+                "open_issues": 206,
                 "owner": "move-language",
                 "repo": "move",
-                "stars": 2331
+                "stars": 2331,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -1219,12 +1669,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 263195716,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-24T21:02:37Z",
+                "open_issues": 140,
                 "owner": "0LNetworkCommunity",
                 "repo": "libra-legacy-v5",
-                "stars": 244
+                "stars": 244,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -1235,12 +1690,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Library of module building blocks for Move (Aptos and Sui).",
+                "homepage": null,
                 "id": 518172553,
                 "language": "Move",
+                "license": null,
                 "last_commit": "2022-12-19T10:47:15Z",
+                "open_issues": 6,
                 "owner": "pentagonxyz",
                 "repo": "movemate",
-                "stars": 209
+                "stars": 209,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -1251,12 +1711,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Move commons library for cross multi Move chain.",
+                "homepage": null,
                 "id": 460325528,
                 "language": "Move",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-12T08:30:23Z",
+                "open_issues": 12,
                 "owner": "movefuns",
                 "repo": "movefuns",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -1267,12 +1732,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Starcoin Move framework",
+                "homepage": null,
                 "id": 463503429,
                 "language": "Move",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-27T12:33:03Z",
+                "open_issues": 28,
                 "owner": "starcoinorg",
                 "repo": "starcoin-framework",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -1283,12 +1753,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Move smart contracts implementing nestable resources on MoveVM blockchains",
+                "homepage": "https://www.taohe.org",
                 "id": 351897679,
                 "language": "Move",
+                "license": "Apache-2.0",
                 "last_commit": "2022-08-18T17:07:00Z",
+                "open_issues": 0,
                 "owner": "taoheorg",
                 "repo": "taohe",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "diem",
+                  "diem-blockchain",
+                  "diem-modules",
+                  "diem-tokens",
+                  "dove",
+                  "move",
+                  "move-modules",
+                  "movevm",
+                  "taos"
+                ]
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -1299,12 +1784,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cron parser library written for Move language",
+                "homepage": null,
                 "id": 532810082,
                 "language": "Move",
+                "license": "Apache-2.0",
                 "last_commit": "2022-09-08T02:24:02Z",
+                "open_issues": 1,
                 "owner": "snowflake-so",
                 "repo": "move-cron-parser",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "cron",
+                  "cron-parser",
+                  "snowflake"
+                ]
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             }
@@ -1322,12 +1816,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 480592723,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-04T21:17:51Z",
+                "open_issues": 206,
                 "owner": "move-language",
                 "repo": "move",
-                "stars": 2331
+                "stars": 2331,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -1338,12 +1837,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Advent of Code in Move",
+                "homepage": null,
                 "id": 573184207,
                 "language": "Move",
+                "license": "MIT",
                 "last_commit": "2023-02-13T22:06:42Z",
+                "open_issues": 0,
                 "owner": "whonore",
                 "repo": "aoc-move",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             }
@@ -1365,12 +1869,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 480592723,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-04T21:17:51Z",
+            "open_issues": 206,
             "owner": "move-language",
             "repo": "move",
-            "stars": 2331
+            "stars": 2331,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
         },
@@ -1381,12 +1890,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 480592723,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-04T21:17:51Z",
+            "open_issues": 206,
             "owner": "move-language",
             "repo": "move",
-            "stars": 2331
+            "stars": 2331,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
         },
@@ -1397,12 +1911,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 480592723,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-04T21:17:51Z",
+            "open_issues": 206,
             "owner": "move-language",
             "repo": "move",
-            "stars": 2331
+            "stars": 2331,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
         },
@@ -1413,12 +1932,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "js move playground by imcoding.online",
+            "homepage": "https://imcoding.online",
             "id": 536050394,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-10-25T11:21:36Z",
+            "open_issues": 2,
             "owner": "imcoding-online",
             "repo": "js-move-playground",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "aptos",
+              "browser",
+              "javascript",
+              "move",
+              "typescript",
+              "vm"
+            ]
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
         },
@@ -1429,12 +1960,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "go-sui-indexer is an off-fullnode service to serve data from Sui Node.",
+            "homepage": null,
             "id": 610653200,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-14T21:55:10Z",
+            "open_issues": 2,
             "owner": "coming-chat",
             "repo": "go-sui-indexer",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
         }
@@ -1451,12 +1987,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 480592723,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-04T21:17:51Z",
+            "open_issues": 206,
             "owner": "move-language",
             "repo": "move",
-            "stars": 2331
+            "stars": 2331,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
         },
@@ -1467,12 +2008,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Move on Aptos language plugin",
+            "homepage": "https://pontem.network/move-intellij-ide-plugin",
             "id": 279299159,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2026-01-21T17:12:32Z",
+            "open_issues": 5,
             "owner": "pontem-network",
             "repo": "intellij-move",
-            "stars": 78
+            "stars": 78,
+            "topics": [
+              "aptos",
+              "ide",
+              "intellij",
+              "intellij-plugin",
+              "kotlin",
+              "move-language"
+            ]
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
         },
@@ -1483,12 +2036,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "syntax highlighting and indentation in Vim for the Move smart contract language",
+            "homepage": null,
             "id": 519006465,
             "language": "Vim Script",
+            "license": null,
             "last_commit": "2024-06-14T13:17:00Z",
+            "open_issues": 0,
             "owner": "0xmovses",
             "repo": "move.vim",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
         },
@@ -1499,12 +2057,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Emacs major mode for Move smart contract programming language.",
+            "homepage": null,
             "id": 544933078,
             "language": "Emacs Lisp",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-24T11:56:37Z",
+            "open_issues": 4,
             "owner": "amnn",
             "repo": "move-mode",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
         },
@@ -1515,12 +2078,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the repository for the Starcoin IDE.",
+            "homepage": "https://marketplace.visualstudio.com/items?itemName=starcoinorg.starcoin-ide",
             "id": 397240351,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-10-28T13:54:05Z",
+            "open_issues": 6,
             "owner": "starcoinorg",
             "repo": "starcoin-ide",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "ide",
+              "move",
+              "move-ide",
+              "movelang",
+              "starcoin",
+              "vscode"
+            ]
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
         }
@@ -1537,12 +2112,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+            "homepage": "https://sui.io",
             "id": 426075845,
             "language": "Rust",
-            "last_commit": "2026-08-28T22:36:56Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:43:13Z",
+            "open_issues": 824,
             "owner": "MystenLabs",
             "repo": "sui",
-            "stars": 7740
+            "stars": 7740,
+            "topics": [
+              "blockchain",
+              "distributed-ledger-technology",
+              "move",
+              "smart-contracts"
+            ]
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
         },
@@ -1553,12 +2138,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wallet releases repository. Contains latest dev releases before it published to stores",
+            "homepage": null,
             "id": 521668154,
             "language": null,
+            "license": null,
             "last_commit": "2024-04-19T10:59:51Z",
+            "open_issues": 22,
             "owner": "pontem-network",
             "repo": "pontem-wallet",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
         },
@@ -1569,12 +2159,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A blockchain wallet browser extension for starcoin",
+            "homepage": null,
             "id": 352850186,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-11T12:35:47Z",
+            "open_issues": 38,
             "owner": "starcoinorg",
             "repo": "starmask-extension",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
         },
@@ -1585,12 +2180,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 544520799,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-25T14:58:26Z",
+            "open_issues": 7,
             "owner": "codeyam-ai",
             "repo": "chrome-extension",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
         },
@@ -1601,12 +2201,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Libra Canonical Serialisation library",
+            "homepage": null,
             "id": 430250831,
             "language": null,
+            "license": null,
             "last_commit": "2020-09-30T09:26:42Z",
+            "open_issues": 0,
             "owner": "pontem-network",
             "repo": "lcs-js",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
         },
@@ -1619,12 +2224,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+                "homepage": "https://sui.io",
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-28T22:36:56Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:43:13Z",
+                "open_issues": 824,
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7740
+                "stars": 7740,
+                "topics": [
+                  "blockchain",
+                  "distributed-ledger-technology",
+                  "move",
+                  "smart-contracts"
+                ]
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -1635,12 +2250,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Integration of Suiet Wallet into the Wallet Adapter",
+                "homepage": "https://wallet-adapter-example.suiet.app",
                 "id": 535030615,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-12-28T23:21:51Z",
+                "open_issues": 4,
                 "owner": "suiet",
                 "repo": "wallet-adapter",
-                "stars": 83
+                "stars": 83,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             }
@@ -1658,12 +2278,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The first choice to connect all wallets on Sui blockchain",
+                "homepage": "https://kit.suiet.app",
                 "id": 536223005,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-03T23:09:14Z",
+                "open_issues": 40,
                 "owner": "suiet",
                 "repo": "wallet-kit",
-                "stars": 207
+                "stars": 207,
+                "topics": [
+                  "sui",
+                  "wallet",
+                  "wallet-adapter",
+                  "wallet-kit"
+                ]
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -1674,12 +2304,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1036563973,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-08-12T09:06:45Z",
+                "open_issues": 0,
                 "owner": "Frankzhaopku",
                 "repo": "ethos-connect",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             }
@@ -1703,12 +2338,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+                "homepage": "https://sui.io",
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-28T22:36:56Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:43:13Z",
+                "open_issues": 824,
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7740
+                "stars": 7740,
+                "topics": [
+                  "blockchain",
+                  "distributed-ledger-technology",
+                  "move",
+                  "smart-contracts"
+                ]
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -1719,12 +2364,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SUI Python Client SDK",
+                "homepage": null,
                 "id": 532577189,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T11:02:57Z",
+                "open_issues": 2,
                 "owner": "FrankC01",
                 "repo": "pysui",
-                "stars": 212
+                "stars": 212,
+                "topics": [
+                  "blockchain",
+                  "client-sdk",
+                  "python",
+                  "sdk-python",
+                  "sui"
+                ]
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -1735,12 +2391,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go language SDK for @MystenLabs Sui",
+                "homepage": null,
                 "id": 533140600,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-12T02:50:08Z",
+                "open_issues": 15,
                 "owner": "blockvisionhq",
                 "repo": "sui-go-sdk",
-                "stars": 198
+                "stars": 198,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -1751,12 +2412,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sui Golang SDK @mystenLabs",
+                "homepage": null,
                 "id": 534564884,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-06T17:16:12Z",
+                "open_issues": 8,
                 "owner": "coming-chat",
                 "repo": "go-sui-sdk",
-                "stars": 101
+                "stars": 101,
+                "topics": [
+                  "move",
+                  "sui"
+                ]
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -1767,12 +2436,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sui4j is a robust, reactive, type safe Java library for working with Smart Contracts on the @MystenLabs/sui network.",
+                "homepage": "https://grapebaba.github.io/sui4j/",
                 "id": 562703610,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-30T13:40:39Z",
+                "open_issues": 15,
                 "owner": "GrapeBaBa",
                 "repo": "sui4j",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "bcs",
+                  "blockchain",
+                  "java",
+                  "jvm",
+                  "move",
+                  "sdk",
+                  "sui"
+                ]
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             },
@@ -1783,12 +2465,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SUI Android SDK(beta)",
+                "homepage": null,
                 "id": 567774606,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-01T04:04:22Z",
+                "open_issues": 0,
                 "owner": "cosmostation",
                 "repo": "suikotlin",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "android",
+                  "blockchain",
+                  "kotlin",
+                  "sui"
+                ]
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             }
@@ -1806,12 +2498,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The typescript SDK for Sui-AMM-swap",
+                "homepage": "https://docs-omniswap-sui.omnibtc.finance",
                 "id": 563165651,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2023-02-20T07:00:57Z",
+                "open_issues": 1,
                 "owner": "OmniBTC",
                 "repo": "OmniSwap-Sui-SDK",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "amm",
+                  "sdk",
+                  "sui",
+                  "swap"
+                ]
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             }
@@ -1829,12 +2531,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Aptos Golang SDK @aptos-labs (Support BCS)",
+                "homepage": null,
                 "id": 520708641,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2024-12-11T23:34:30Z",
+                "open_issues": 6,
                 "owner": "coming-chat",
                 "repo": "go-aptos-sdk",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "aptos",
+                  "aptos-sdk",
+                  "golang",
+                  "wallet"
+                ]
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
             }
@@ -1848,15 +2560,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:40:40.309Z",
+    "last_updated": "2026-08-29T04:32:17.664Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Code and content from the Move community.",
+      "homepage": null,
       "id": 462006135,
       "language": null,
+      "license": "CC-BY-4.0",
       "last_commit": "2024-08-14T10:01:34Z",
+      "open_issues": 24,
       "owner": "MystenLabs",
       "repo": "awesome-move",
-      "stars": 1496
+      "stars": 1496,
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "f7caa001474bfa8ba9a43b1eadc53395febc7ea5",
     "enhanced_repository": "enhansome/enhansome-move",
