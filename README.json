@@ -40,7 +40,7 @@
             "open_issues": 24,
             "owner": "MystenLabs",
             "repo": "awesome-move",
-            "stars": 1495,
+            "stars": 1494,
             "topics": [
               "awesome",
               "awesome-list"
@@ -70,7 +70,7 @@
             "open_issues": 368,
             "owner": "diem",
             "repo": "diem",
-            "stars": 16666,
+            "stars": 16664,
             "topics": [
               "blockchain"
             ]
@@ -89,11 +89,11 @@
             "id": 426075845,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-13T16:24:28Z",
-            "open_issues": 845,
+            "last_commit": "2026-09-14T17:11:58Z",
+            "open_issues": 840,
             "owner": "MystenLabs",
             "repo": "sui",
-            "stars": 7745,
+            "stars": 7747,
             "topics": [
               "blockchain",
               "distributed-ledger-technology",
@@ -115,11 +115,11 @@
             "id": 462597790,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-13T15:54:19Z",
-            "open_issues": 552,
+            "last_commit": "2026-09-14T17:42:07Z",
+            "open_issues": 547,
             "owner": "aptos-labs",
             "repo": "aptos-core",
-            "stars": 6430,
+            "stars": 6431,
             "topics": [
               "aptos",
               "blockchain",
@@ -166,8 +166,8 @@
             "id": 126412552,
             "language": "Go",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-07T03:43:28Z",
-            "open_issues": 16,
+            "last_commit": "2026-09-14T03:17:29Z",
+            "open_issues": 18,
             "owner": "celo-org",
             "repo": "celo-blockchain",
             "stars": 626,
@@ -331,11 +331,11 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-13T16:24:28Z",
-                "open_issues": 845,
+                "last_commit": "2026-09-14T17:11:58Z",
+                "open_issues": 840,
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7745,
+                "stars": 7747,
                 "topics": [
                   "blockchain",
                   "distributed-ledger-technology",
@@ -662,7 +662,7 @@
                 "open_issues": 368,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16666,
+                "stars": 16664,
                 "topics": [
                   "blockchain"
                 ]
@@ -685,7 +685,7 @@
                 "open_issues": 368,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16666,
+                "stars": 16664,
                 "topics": [
                   "blockchain"
                 ]
@@ -708,7 +708,7 @@
                 "open_issues": 368,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16666,
+                "stars": 16664,
                 "topics": [
                   "blockchain"
                 ]
@@ -731,7 +731,7 @@
                 "open_issues": 368,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16666,
+                "stars": 16664,
                 "topics": [
                   "blockchain"
                 ]
@@ -750,11 +750,11 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-13T16:24:28Z",
-                "open_issues": 845,
+                "last_commit": "2026-09-14T17:11:58Z",
+                "open_issues": 840,
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7745,
+                "stars": 7747,
                 "topics": [
                   "blockchain",
                   "distributed-ledger-technology",
@@ -920,11 +920,11 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-13T16:24:28Z",
-                "open_issues": 845,
+                "last_commit": "2026-09-14T17:11:58Z",
+                "open_issues": 840,
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7745,
+                "stars": 7747,
                 "topics": [
                   "blockchain",
                   "distributed-ledger-technology",
@@ -1211,7 +1211,7 @@
                 "open_issues": 368,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16666,
+                "stars": 16664,
                 "topics": [
                   "blockchain"
                 ]
@@ -1234,7 +1234,7 @@
                 "open_issues": 368,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16666,
+                "stars": 16664,
                 "topics": [
                   "blockchain"
                 ]
@@ -1376,7 +1376,7 @@
                 "open_issues": 368,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16666,
+                "stars": 16664,
                 "topics": [
                   "blockchain"
                 ]
@@ -1448,7 +1448,7 @@
                 "open_issues": 368,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16666,
+                "stars": 16664,
                 "topics": [
                   "blockchain"
                 ]
@@ -1467,11 +1467,11 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-13T16:24:28Z",
-                "open_issues": 845,
+                "last_commit": "2026-09-14T17:11:58Z",
+                "open_issues": 840,
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7745,
+                "stars": 7747,
                 "topics": [
                   "blockchain",
                   "distributed-ledger-technology",
@@ -1493,11 +1493,11 @@
                 "id": 462597790,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-13T15:54:19Z",
-                "open_issues": 552,
+                "last_commit": "2026-09-14T17:42:07Z",
+                "open_issues": 547,
                 "owner": "aptos-labs",
                 "repo": "aptos-core",
-                "stars": 6430,
+                "stars": 6431,
                 "topics": [
                   "aptos",
                   "blockchain",
@@ -2117,11 +2117,11 @@
             "id": 426075845,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-13T16:24:28Z",
-            "open_issues": 845,
+            "last_commit": "2026-09-14T17:11:58Z",
+            "open_issues": 840,
             "owner": "MystenLabs",
             "repo": "sui",
-            "stars": 7745,
+            "stars": 7747,
             "topics": [
               "blockchain",
               "distributed-ledger-technology",
@@ -2229,11 +2229,11 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-13T16:24:28Z",
-                "open_issues": 845,
+                "last_commit": "2026-09-14T17:11:58Z",
+                "open_issues": 840,
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7745,
+                "stars": 7747,
                 "topics": [
                   "blockchain",
                   "distributed-ledger-technology",
@@ -2343,11 +2343,11 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-13T16:24:28Z",
-                "open_issues": 845,
+                "last_commit": "2026-09-14T17:11:58Z",
+                "open_issues": 840,
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7745,
+                "stars": 7747,
                 "topics": [
                   "blockchain",
                   "distributed-ledger-technology",
@@ -2369,8 +2369,8 @@
                 "id": 532577189,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T17:49:20Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-14T18:05:52Z",
+                "open_issues": 3,
                 "owner": "FrankC01",
                 "repo": "pysui",
                 "stars": 212,
@@ -2396,11 +2396,11 @@
                 "id": 533140600,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-12T02:50:08Z",
-                "open_issues": 20,
+                "last_commit": "2026-09-14T03:30:06Z",
+                "open_issues": 16,
                 "owner": "blockvisionhq",
                 "repo": "sui-go-sdk",
-                "stars": 198,
+                "stars": 199,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
@@ -2560,7 +2560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T16:38:10.171Z",
+    "last_updated": "2026-09-14T18:12:07.387Z",
     "original_repository_info": {
       "archived": false,
       "description": "Code and content from the Move community.",
@@ -2572,7 +2572,7 @@
       "open_issues": 24,
       "owner": "MystenLabs",
       "repo": "awesome-move",
-      "stars": 1495,
+      "stars": 1494,
       "topics": [
         "awesome",
         "awesome-list"
