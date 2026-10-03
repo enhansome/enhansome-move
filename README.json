@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Installation",
-          "description": null,
+          "description": "move-language/move",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -21,30 +21,6 @@
             "repo": "move",
             "stars": 2328,
             "topics": []
-          },
-          "first_seen": "2026-08-28T22:40:40.309Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Problem Statement",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Code and content from the Move community.",
-            "homepage": null,
-            "id": 462006135,
-            "language": null,
-            "license": "CC-BY-4.0",
-            "last_commit": "2024-08-14T10:01:34Z",
-            "open_issues": 24,
-            "owner": "MystenLabs",
-            "repo": "awesome-move",
-            "stars": 1493,
-            "topics": [
-              "awesome",
-              "awesome-list"
-            ]
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
         }
@@ -70,7 +46,7 @@
             "open_issues": 369,
             "owner": "diem",
             "repo": "diem",
-            "stars": 16659,
+            "stars": 16660,
             "topics": [
               "blockchain"
             ]
@@ -89,8 +65,8 @@
             "id": 426075845,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T17:36:02Z",
-            "open_issues": 875,
+            "last_commit": "2026-10-03T04:09:03Z",
+            "open_issues": 874,
             "owner": "MystenLabs",
             "repo": "sui",
             "stars": 7760,
@@ -115,8 +91,8 @@
             "id": 462597790,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T17:52:34Z",
-            "open_issues": 559,
+            "last_commit": "2026-10-03T04:56:05Z",
+            "open_issues": 563,
             "owner": "aptos-labs",
             "repo": "aptos-core",
             "stars": 6437,
@@ -331,8 +307,8 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T17:36:02Z",
-                "open_issues": 875,
+                "last_commit": "2026-10-03T04:09:03Z",
+                "open_issues": 874,
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7760,
@@ -662,7 +638,7 @@
                 "open_issues": 369,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16659,
+                "stars": 16660,
                 "topics": [
                   "blockchain"
                 ]
@@ -685,7 +661,7 @@
                 "open_issues": 369,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16659,
+                "stars": 16660,
                 "topics": [
                   "blockchain"
                 ]
@@ -708,7 +684,7 @@
                 "open_issues": 369,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16659,
+                "stars": 16660,
                 "topics": [
                   "blockchain"
                 ]
@@ -731,7 +707,7 @@
                 "open_issues": 369,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16659,
+                "stars": 16660,
                 "topics": [
                   "blockchain"
                 ]
@@ -750,8 +726,8 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T17:36:02Z",
-                "open_issues": 875,
+                "last_commit": "2026-10-03T04:09:03Z",
+                "open_issues": 874,
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7760,
@@ -920,8 +896,8 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T17:36:02Z",
-                "open_issues": 875,
+                "last_commit": "2026-10-03T04:09:03Z",
+                "open_issues": 874,
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7760,
@@ -1211,7 +1187,7 @@
                 "open_issues": 369,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16659,
+                "stars": 16660,
                 "topics": [
                   "blockchain"
                 ]
@@ -1234,7 +1210,7 @@
                 "open_issues": 369,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16659,
+                "stars": 16660,
                 "topics": [
                   "blockchain"
                 ]
@@ -1376,7 +1352,7 @@
                 "open_issues": 369,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16659,
+                "stars": 16660,
                 "topics": [
                   "blockchain"
                 ]
@@ -1435,7 +1411,7 @@
             {
               "node_type": "item",
               "title": "Diem Framework",
-              "description": null,
+              "description": "diem/diem",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1448,7 +1424,7 @@
                 "open_issues": 369,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16659,
+                "stars": 16660,
                 "topics": [
                   "blockchain"
                 ]
@@ -1458,7 +1434,7 @@
             {
               "node_type": "item",
               "title": "Sui Framework",
-              "description": null,
+              "description": "MystenLabs/sui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1467,8 +1443,8 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T17:36:02Z",
-                "open_issues": 875,
+                "last_commit": "2026-10-03T04:09:03Z",
+                "open_issues": 874,
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7760,
@@ -1484,7 +1460,7 @@
             {
               "node_type": "item",
               "title": "Aptos Framework",
-              "description": null,
+              "description": "aptos-labs/aptos-core",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1493,8 +1469,8 @@
                 "id": 462597790,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T17:52:34Z",
-                "open_issues": 559,
+                "last_commit": "2026-10-03T04:56:05Z",
+                "open_issues": 563,
                 "owner": "aptos-labs",
                 "repo": "aptos-core",
                 "stars": 6437,
@@ -1511,7 +1487,7 @@
             {
               "node_type": "item",
               "title": "0L Framework",
-              "description": null,
+              "description": "0LNetworkCommunity/libra-legacy-v5",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1532,7 +1508,7 @@
             {
               "node_type": "item",
               "title": "Starcoin Framework",
-              "description": null,
+              "description": "starcoinorg/starcoin-framework",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2117,8 +2093,8 @@
             "id": 426075845,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T17:36:02Z",
-            "open_issues": 875,
+            "last_commit": "2026-10-03T04:09:03Z",
+            "open_issues": 874,
             "owner": "MystenLabs",
             "repo": "sui",
             "stars": 7760,
@@ -2229,8 +2205,8 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T17:36:02Z",
-                "open_issues": 875,
+                "last_commit": "2026-10-03T04:09:03Z",
+                "open_issues": 874,
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7760,
@@ -2334,7 +2310,7 @@
             {
               "node_type": "item",
               "title": "TS/JS SDK",
-              "description": "(official)",
+              "description": "MystenLabs/sui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2343,8 +2319,8 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T17:36:02Z",
-                "open_issues": 875,
+                "last_commit": "2026-10-03T04:09:03Z",
+                "open_issues": 874,
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7760,
@@ -2560,7 +2536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:02:28.589Z",
+    "last_updated": "2026-10-03T04:56:41.424Z",
     "original_repository_info": {
       "archived": false,
       "description": "Code and content from the Move community.",
