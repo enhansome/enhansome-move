@@ -19,7 +19,7 @@
             "open_issues": 202,
             "owner": "move-language",
             "repo": "move",
-            "stars": 2329,
+            "stars": 2328,
             "topics": []
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
@@ -46,7 +46,7 @@
             "open_issues": 369,
             "owner": "diem",
             "repo": "diem",
-            "stars": 16660,
+            "stars": 16656,
             "topics": [
               "blockchain"
             ]
@@ -65,11 +65,11 @@
             "id": 426075845,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T16:18:23Z",
-            "open_issues": 842,
+            "last_commit": "2026-10-15T16:10:01Z",
+            "open_issues": 843,
             "owner": "MystenLabs",
             "repo": "sui",
-            "stars": 7775,
+            "stars": 7777,
             "topics": [
               "blockchain",
               "distributed-ledger-technology",
@@ -91,11 +91,11 @@
             "id": 462597790,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T17:25:03Z",
-            "open_issues": 551,
+            "last_commit": "2026-10-15T17:02:22Z",
+            "open_issues": 552,
             "owner": "aptos-labs",
             "repo": "aptos-core",
-            "stars": 6443,
+            "stars": 6442,
             "topics": [
               "aptos",
               "blockchain",
@@ -118,7 +118,7 @@
             "id": 238777884,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T10:18:36Z",
+            "last_commit": "2026-10-15T09:49:56Z",
             "open_issues": 232,
             "owner": "starcoinorg",
             "repo": "starcoin",
@@ -201,7 +201,7 @@
             "open_issues": 140,
             "owner": "0LNetworkCommunity",
             "repo": "libra-legacy-v5",
-            "stars": 245,
+            "stars": 244,
             "topics": []
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
@@ -255,7 +255,7 @@
             "open_issues": 202,
             "owner": "move-language",
             "repo": "move",
-            "stars": 2329,
+            "stars": 2328,
             "topics": []
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
@@ -282,7 +282,7 @@
             "open_issues": 202,
             "owner": "move-language",
             "repo": "move",
-            "stars": 2329,
+            "stars": 2328,
             "topics": []
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
@@ -307,11 +307,11 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T16:18:23Z",
-                "open_issues": 842,
+                "last_commit": "2026-10-15T16:10:01Z",
+                "open_issues": 843,
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7775,
+                "stars": 7777,
                 "topics": [
                   "blockchain",
                   "distributed-ledger-technology",
@@ -337,7 +337,7 @@
                 "open_issues": 202,
                 "owner": "move-language",
                 "repo": "move",
-                "stars": 2329,
+                "stars": 2328,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
@@ -358,7 +358,7 @@
                 "open_issues": 140,
                 "owner": "0LNetworkCommunity",
                 "repo": "libra-legacy-v5",
-                "stars": 245,
+                "stars": 244,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
@@ -379,7 +379,7 @@
                 "open_issues": 140,
                 "owner": "0LNetworkCommunity",
                 "repo": "libra-legacy-v5",
-                "stars": 245,
+                "stars": 244,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
@@ -400,7 +400,7 @@
                 "open_issues": 140,
                 "owner": "0LNetworkCommunity",
                 "repo": "libra-legacy-v5",
-                "stars": 245,
+                "stars": 244,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
@@ -638,7 +638,7 @@
                 "open_issues": 369,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16660,
+                "stars": 16656,
                 "topics": [
                   "blockchain"
                 ]
@@ -661,7 +661,7 @@
                 "open_issues": 369,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16660,
+                "stars": 16656,
                 "topics": [
                   "blockchain"
                 ]
@@ -684,7 +684,7 @@
                 "open_issues": 369,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16660,
+                "stars": 16656,
                 "topics": [
                   "blockchain"
                 ]
@@ -707,7 +707,7 @@
                 "open_issues": 369,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16660,
+                "stars": 16656,
                 "topics": [
                   "blockchain"
                 ]
@@ -726,11 +726,11 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T16:18:23Z",
-                "open_issues": 842,
+                "last_commit": "2026-10-15T16:10:01Z",
+                "open_issues": 843,
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7775,
+                "stars": 7777,
                 "topics": [
                   "blockchain",
                   "distributed-ledger-technology",
@@ -896,11 +896,11 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T16:18:23Z",
-                "open_issues": 842,
+                "last_commit": "2026-10-15T16:10:01Z",
+                "open_issues": 843,
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7775,
+                "stars": 7777,
                 "topics": [
                   "blockchain",
                   "distributed-ledger-technology",
@@ -926,7 +926,7 @@
                 "open_issues": 202,
                 "owner": "move-language",
                 "repo": "move",
-                "stars": 2329,
+                "stars": 2328,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
@@ -947,7 +947,7 @@
                 "open_issues": 202,
                 "owner": "move-language",
                 "repo": "move",
-                "stars": 2329,
+                "stars": 2328,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
@@ -1187,7 +1187,7 @@
                 "open_issues": 369,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16660,
+                "stars": 16656,
                 "topics": [
                   "blockchain"
                 ]
@@ -1210,7 +1210,7 @@
                 "open_issues": 369,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16660,
+                "stars": 16656,
                 "topics": [
                   "blockchain"
                 ]
@@ -1233,7 +1233,7 @@
                 "open_issues": 140,
                 "owner": "0LNetworkCommunity",
                 "repo": "libra-legacy-v5",
-                "stars": 245,
+                "stars": 244,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
@@ -1254,7 +1254,7 @@
                 "open_issues": 140,
                 "owner": "0LNetworkCommunity",
                 "repo": "libra-legacy-v5",
-                "stars": 245,
+                "stars": 244,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
@@ -1352,7 +1352,7 @@
                 "open_issues": 369,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16660,
+                "stars": 16656,
                 "topics": [
                   "blockchain"
                 ]
@@ -1375,7 +1375,7 @@
                 "open_issues": 140,
                 "owner": "0LNetworkCommunity",
                 "repo": "libra-legacy-v5",
-                "stars": 245,
+                "stars": 244,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
@@ -1424,7 +1424,7 @@
                 "open_issues": 369,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16660,
+                "stars": 16656,
                 "topics": [
                   "blockchain"
                 ]
@@ -1443,11 +1443,11 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T16:18:23Z",
-                "open_issues": 842,
+                "last_commit": "2026-10-15T16:10:01Z",
+                "open_issues": 843,
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7775,
+                "stars": 7777,
                 "topics": [
                   "blockchain",
                   "distributed-ledger-technology",
@@ -1469,11 +1469,11 @@
                 "id": 462597790,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-14T17:25:03Z",
-                "open_issues": 551,
+                "last_commit": "2026-10-15T17:02:22Z",
+                "open_issues": 552,
                 "owner": "aptos-labs",
                 "repo": "aptos-core",
-                "stars": 6443,
+                "stars": 6442,
                 "topics": [
                   "aptos",
                   "blockchain",
@@ -1500,7 +1500,7 @@
                 "open_issues": 140,
                 "owner": "0LNetworkCommunity",
                 "repo": "libra-legacy-v5",
-                "stars": 245,
+                "stars": 244,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
@@ -1549,7 +1549,7 @@
                 "open_issues": 202,
                 "owner": "move-language",
                 "repo": "move",
-                "stars": 2329,
+                "stars": 2328,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
@@ -1570,7 +1570,7 @@
                 "open_issues": 202,
                 "owner": "move-language",
                 "repo": "move",
-                "stars": 2329,
+                "stars": 2328,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
@@ -1591,7 +1591,7 @@
                 "open_issues": 202,
                 "owner": "move-language",
                 "repo": "move",
-                "stars": 2329,
+                "stars": 2328,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
@@ -1612,7 +1612,7 @@
                 "open_issues": 202,
                 "owner": "move-language",
                 "repo": "move",
-                "stars": 2329,
+                "stars": 2328,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
@@ -1633,7 +1633,7 @@
                 "open_issues": 202,
                 "owner": "move-language",
                 "repo": "move",
-                "stars": 2329,
+                "stars": 2328,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
@@ -1654,7 +1654,7 @@
                 "open_issues": 140,
                 "owner": "0LNetworkCommunity",
                 "repo": "libra-legacy-v5",
-                "stars": 245,
+                "stars": 244,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
@@ -1801,7 +1801,7 @@
                 "open_issues": 202,
                 "owner": "move-language",
                 "repo": "move",
-                "stars": 2329,
+                "stars": 2328,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
@@ -1854,7 +1854,7 @@
             "open_issues": 202,
             "owner": "move-language",
             "repo": "move",
-            "stars": 2329,
+            "stars": 2328,
             "topics": []
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
@@ -1875,7 +1875,7 @@
             "open_issues": 202,
             "owner": "move-language",
             "repo": "move",
-            "stars": 2329,
+            "stars": 2328,
             "topics": []
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
@@ -1896,7 +1896,7 @@
             "open_issues": 202,
             "owner": "move-language",
             "repo": "move",
-            "stars": 2329,
+            "stars": 2328,
             "topics": []
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
@@ -1972,7 +1972,7 @@
             "open_issues": 202,
             "owner": "move-language",
             "repo": "move",
-            "stars": 2329,
+            "stars": 2328,
             "topics": []
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
@@ -2093,11 +2093,11 @@
             "id": 426075845,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T16:18:23Z",
-            "open_issues": 842,
+            "last_commit": "2026-10-15T16:10:01Z",
+            "open_issues": 843,
             "owner": "MystenLabs",
             "repo": "sui",
-            "stars": 7775,
+            "stars": 7777,
             "topics": [
               "blockchain",
               "distributed-ledger-technology",
@@ -2205,11 +2205,11 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T16:18:23Z",
-                "open_issues": 842,
+                "last_commit": "2026-10-15T16:10:01Z",
+                "open_issues": 843,
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7775,
+                "stars": 7777,
                 "topics": [
                   "blockchain",
                   "distributed-ledger-technology",
@@ -2319,11 +2319,11 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T16:18:23Z",
-                "open_issues": 842,
+                "last_commit": "2026-10-15T16:10:01Z",
+                "open_issues": 843,
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7775,
+                "stars": 7777,
                 "topics": [
                   "blockchain",
                   "distributed-ledger-technology",
@@ -2372,7 +2372,7 @@
                 "id": 533140600,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T06:17:33Z",
+                "last_commit": "2026-10-15T08:30:10Z",
                 "open_issues": 15,
                 "owner": "blockvisionhq",
                 "repo": "sui-go-sdk",
@@ -2536,7 +2536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T17:36:59.481Z",
+    "last_updated": "2026-10-15T17:22:05.711Z",
     "original_repository_info": {
       "archived": false,
       "description": "Code and content from the Move community.",
@@ -2548,7 +2548,7 @@
       "open_issues": 24,
       "owner": "MystenLabs",
       "repo": "awesome-move",
-      "stars": 1495,
+      "stars": 1494,
       "topics": [
         "awesome",
         "awesome-list"
