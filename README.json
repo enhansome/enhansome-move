@@ -46,7 +46,7 @@
             "open_issues": 369,
             "owner": "diem",
             "repo": "diem",
-            "stars": 16657,
+            "stars": 16656,
             "topics": [
               "blockchain"
             ]
@@ -65,8 +65,8 @@
             "id": 426075845,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T16:19:42Z",
-            "open_issues": 851,
+            "last_commit": "2026-10-24T15:55:24Z",
+            "open_issues": 848,
             "owner": "MystenLabs",
             "repo": "sui",
             "stars": 7784,
@@ -91,8 +91,8 @@
             "id": 462597790,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T17:13:27Z",
-            "open_issues": 562,
+            "last_commit": "2026-10-24T16:09:00Z",
+            "open_issues": 555,
             "owner": "aptos-labs",
             "repo": "aptos-core",
             "stars": 6443,
@@ -307,8 +307,8 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T16:19:42Z",
-                "open_issues": 851,
+                "last_commit": "2026-10-24T15:55:24Z",
+                "open_issues": 848,
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7784,
@@ -638,7 +638,7 @@
                 "open_issues": 369,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16657,
+                "stars": 16656,
                 "topics": [
                   "blockchain"
                 ]
@@ -661,7 +661,7 @@
                 "open_issues": 369,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16657,
+                "stars": 16656,
                 "topics": [
                   "blockchain"
                 ]
@@ -684,7 +684,7 @@
                 "open_issues": 369,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16657,
+                "stars": 16656,
                 "topics": [
                   "blockchain"
                 ]
@@ -707,7 +707,7 @@
                 "open_issues": 369,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16657,
+                "stars": 16656,
                 "topics": [
                   "blockchain"
                 ]
@@ -726,8 +726,8 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T16:19:42Z",
-                "open_issues": 851,
+                "last_commit": "2026-10-24T15:55:24Z",
+                "open_issues": 848,
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7784,
@@ -896,8 +896,8 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T16:19:42Z",
-                "open_issues": 851,
+                "last_commit": "2026-10-24T15:55:24Z",
+                "open_issues": 848,
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7784,
@@ -1187,7 +1187,7 @@
                 "open_issues": 369,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16657,
+                "stars": 16656,
                 "topics": [
                   "blockchain"
                 ]
@@ -1210,7 +1210,7 @@
                 "open_issues": 369,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16657,
+                "stars": 16656,
                 "topics": [
                   "blockchain"
                 ]
@@ -1352,7 +1352,7 @@
                 "open_issues": 369,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16657,
+                "stars": 16656,
                 "topics": [
                   "blockchain"
                 ]
@@ -1424,7 +1424,7 @@
                 "open_issues": 369,
                 "owner": "diem",
                 "repo": "diem",
-                "stars": 16657,
+                "stars": 16656,
                 "topics": [
                   "blockchain"
                 ]
@@ -1443,8 +1443,8 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T16:19:42Z",
-                "open_issues": 851,
+                "last_commit": "2026-10-24T15:55:24Z",
+                "open_issues": 848,
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7784,
@@ -1469,8 +1469,8 @@
                 "id": 462597790,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-23T17:13:27Z",
-                "open_issues": 562,
+                "last_commit": "2026-10-24T16:09:00Z",
+                "open_issues": 555,
                 "owner": "aptos-labs",
                 "repo": "aptos-core",
                 "stars": 6443,
@@ -2093,8 +2093,8 @@
             "id": 426075845,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T16:19:42Z",
-            "open_issues": 851,
+            "last_commit": "2026-10-24T15:55:24Z",
+            "open_issues": 848,
             "owner": "MystenLabs",
             "repo": "sui",
             "stars": 7784,
@@ -2205,8 +2205,8 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T16:19:42Z",
-                "open_issues": 851,
+                "last_commit": "2026-10-24T15:55:24Z",
+                "open_issues": 848,
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7784,
@@ -2319,8 +2319,8 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T16:19:42Z",
-                "open_issues": 851,
+                "last_commit": "2026-10-24T15:55:24Z",
+                "open_issues": 848,
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7784,
@@ -2536,7 +2536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T17:27:46.964Z",
+    "last_updated": "2026-10-24T16:15:19.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "Code and content from the Move community.",
