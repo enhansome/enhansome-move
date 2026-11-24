@@ -19,7 +19,7 @@
             "open_issues": 202,
             "owner": "move-language",
             "repo": "move",
-            "stars": 2326,
+            "stars": 2325,
             "topics": []
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
@@ -42,7 +42,7 @@
             "id": 179164257,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T05:52:40Z",
+            "last_commit": "2026-11-24T05:52:43Z",
             "open_issues": 368,
             "owner": "diem",
             "repo": "diem",
@@ -65,11 +65,11 @@
             "id": 426075845,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T00:11:41Z",
-            "open_issues": 846,
+            "last_commit": "2026-11-24T22:28:31Z",
+            "open_issues": 845,
             "owner": "MystenLabs",
             "repo": "sui",
-            "stars": 7783,
+            "stars": 7782,
             "topics": [
               "blockchain",
               "distributed-ledger-technology",
@@ -91,7 +91,7 @@
             "id": 462597790,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-24T00:21:25Z",
+            "last_commit": "2026-11-24T22:33:01Z",
             "open_issues": 611,
             "owner": "aptos-labs",
             "repo": "aptos-core",
@@ -255,7 +255,7 @@
             "open_issues": 202,
             "owner": "move-language",
             "repo": "move",
-            "stars": 2326,
+            "stars": 2325,
             "topics": []
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
@@ -282,7 +282,7 @@
             "open_issues": 202,
             "owner": "move-language",
             "repo": "move",
-            "stars": 2326,
+            "stars": 2325,
             "topics": []
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
@@ -307,11 +307,11 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T00:11:41Z",
-                "open_issues": 846,
+                "last_commit": "2026-11-24T22:28:31Z",
+                "open_issues": 845,
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7783,
+                "stars": 7782,
                 "topics": [
                   "blockchain",
                   "distributed-ledger-technology",
@@ -337,7 +337,7 @@
                 "open_issues": 202,
                 "owner": "move-language",
                 "repo": "move",
-                "stars": 2326,
+                "stars": 2325,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
@@ -634,7 +634,7 @@
                 "id": 179164257,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T05:52:40Z",
+                "last_commit": "2026-11-24T05:52:43Z",
                 "open_issues": 368,
                 "owner": "diem",
                 "repo": "diem",
@@ -657,7 +657,7 @@
                 "id": 179164257,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T05:52:40Z",
+                "last_commit": "2026-11-24T05:52:43Z",
                 "open_issues": 368,
                 "owner": "diem",
                 "repo": "diem",
@@ -680,7 +680,7 @@
                 "id": 179164257,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T05:52:40Z",
+                "last_commit": "2026-11-24T05:52:43Z",
                 "open_issues": 368,
                 "owner": "diem",
                 "repo": "diem",
@@ -703,7 +703,7 @@
                 "id": 179164257,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T05:52:40Z",
+                "last_commit": "2026-11-24T05:52:43Z",
                 "open_issues": 368,
                 "owner": "diem",
                 "repo": "diem",
@@ -726,11 +726,11 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T00:11:41Z",
-                "open_issues": 846,
+                "last_commit": "2026-11-24T22:28:31Z",
+                "open_issues": 845,
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7783,
+                "stars": 7782,
                 "topics": [
                   "blockchain",
                   "distributed-ledger-technology",
@@ -896,11 +896,11 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T00:11:41Z",
-                "open_issues": 846,
+                "last_commit": "2026-11-24T22:28:31Z",
+                "open_issues": 845,
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7783,
+                "stars": 7782,
                 "topics": [
                   "blockchain",
                   "distributed-ledger-technology",
@@ -926,7 +926,7 @@
                 "open_issues": 202,
                 "owner": "move-language",
                 "repo": "move",
-                "stars": 2326,
+                "stars": 2325,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
@@ -947,7 +947,7 @@
                 "open_issues": 202,
                 "owner": "move-language",
                 "repo": "move",
-                "stars": 2326,
+                "stars": 2325,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
@@ -1183,7 +1183,7 @@
                 "id": 179164257,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T05:52:40Z",
+                "last_commit": "2026-11-24T05:52:43Z",
                 "open_issues": 368,
                 "owner": "diem",
                 "repo": "diem",
@@ -1206,7 +1206,7 @@
                 "id": 179164257,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T05:52:40Z",
+                "last_commit": "2026-11-24T05:52:43Z",
                 "open_issues": 368,
                 "owner": "diem",
                 "repo": "diem",
@@ -1348,7 +1348,7 @@
                 "id": 179164257,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T05:52:40Z",
+                "last_commit": "2026-11-24T05:52:43Z",
                 "open_issues": 368,
                 "owner": "diem",
                 "repo": "diem",
@@ -1420,7 +1420,7 @@
                 "id": 179164257,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T05:52:40Z",
+                "last_commit": "2026-11-24T05:52:43Z",
                 "open_issues": 368,
                 "owner": "diem",
                 "repo": "diem",
@@ -1443,11 +1443,11 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T00:11:41Z",
-                "open_issues": 846,
+                "last_commit": "2026-11-24T22:28:31Z",
+                "open_issues": 845,
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7783,
+                "stars": 7782,
                 "topics": [
                   "blockchain",
                   "distributed-ledger-technology",
@@ -1469,7 +1469,7 @@
                 "id": 462597790,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-24T00:21:25Z",
+                "last_commit": "2026-11-24T22:33:01Z",
                 "open_issues": 611,
                 "owner": "aptos-labs",
                 "repo": "aptos-core",
@@ -1549,7 +1549,7 @@
                 "open_issues": 202,
                 "owner": "move-language",
                 "repo": "move",
-                "stars": 2326,
+                "stars": 2325,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
@@ -1570,7 +1570,7 @@
                 "open_issues": 202,
                 "owner": "move-language",
                 "repo": "move",
-                "stars": 2326,
+                "stars": 2325,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
@@ -1591,7 +1591,7 @@
                 "open_issues": 202,
                 "owner": "move-language",
                 "repo": "move",
-                "stars": 2326,
+                "stars": 2325,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
@@ -1612,7 +1612,7 @@
                 "open_issues": 202,
                 "owner": "move-language",
                 "repo": "move",
-                "stars": 2326,
+                "stars": 2325,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
@@ -1633,7 +1633,7 @@
                 "open_issues": 202,
                 "owner": "move-language",
                 "repo": "move",
-                "stars": 2326,
+                "stars": 2325,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
@@ -1801,7 +1801,7 @@
                 "open_issues": 202,
                 "owner": "move-language",
                 "repo": "move",
-                "stars": 2326,
+                "stars": 2325,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:40.309Z"
@@ -1854,7 +1854,7 @@
             "open_issues": 202,
             "owner": "move-language",
             "repo": "move",
-            "stars": 2326,
+            "stars": 2325,
             "topics": []
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
@@ -1875,7 +1875,7 @@
             "open_issues": 202,
             "owner": "move-language",
             "repo": "move",
-            "stars": 2326,
+            "stars": 2325,
             "topics": []
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
@@ -1896,7 +1896,7 @@
             "open_issues": 202,
             "owner": "move-language",
             "repo": "move",
-            "stars": 2326,
+            "stars": 2325,
             "topics": []
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
@@ -1972,7 +1972,7 @@
             "open_issues": 202,
             "owner": "move-language",
             "repo": "move",
-            "stars": 2326,
+            "stars": 2325,
             "topics": []
           },
           "first_seen": "2026-08-28T22:40:40.309Z"
@@ -2093,11 +2093,11 @@
             "id": 426075845,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T00:11:41Z",
-            "open_issues": 846,
+            "last_commit": "2026-11-24T22:28:31Z",
+            "open_issues": 845,
             "owner": "MystenLabs",
             "repo": "sui",
-            "stars": 7783,
+            "stars": 7782,
             "topics": [
               "blockchain",
               "distributed-ledger-technology",
@@ -2205,11 +2205,11 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T00:11:41Z",
-                "open_issues": 846,
+                "last_commit": "2026-11-24T22:28:31Z",
+                "open_issues": 845,
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7783,
+                "stars": 7782,
                 "topics": [
                   "blockchain",
                   "distributed-ledger-technology",
@@ -2319,11 +2319,11 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T00:11:41Z",
-                "open_issues": 846,
+                "last_commit": "2026-11-24T22:28:31Z",
+                "open_issues": 845,
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7783,
+                "stars": 7782,
                 "topics": [
                   "blockchain",
                   "distributed-ledger-technology",
@@ -2538,7 +2538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T00:23:16.223Z",
+    "last_updated": "2026-11-24T22:45:52.492Z",
     "original_repository_info": {
       "archived": false,
       "description": "Code and content from the Move community.",
